@@ -18,6 +18,15 @@ Il target è **200 parole di corpo testo**. La NL di luglio (Spa) ne ha ~180 ed 
 
 Se hai tre argomenti buoni, non fare una NL lunga: fai tre NL.
 
+### Il corollario: se apri con una scarsità, datala
+
+"Dura poco", "è il momento giusto", "le camere finiscono in fretta" **non sono scarsità: sono aria.** Il lettore non sa quando prenotare e chiude la mail.
+
+Ogni volta che il testo dice che una cosa sta per finire, la riga dopo deve dire **quando**: un intervallo di date, un numero di weekend, una data di chiusura. Se il periodo esatto non è prevedibile (foliage, innevamento, fioriture), si dichiara comunque una finestra e si trasforma l'incertezza in un motivo per scrivere su WhatsApp — che è il canale che porta prenotazioni.
+
+> ❌ *"C'è una settimana, ogni anno, in cui i larici diventano oro. Dura poco."*
+> ✅ *"Succede a inizio ottobre. Quest'anno la finestra va dal 3 al 18: tre weekend, non uno di più."*
+
 ---
 
 ## 2. Struttura fissa

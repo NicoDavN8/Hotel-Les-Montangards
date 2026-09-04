@@ -1,6 +1,8 @@
 # Newsletter Autunno 2026 — Hotel Les Montagnards
 
-**Invio consigliato:** 25 settembre – 2 ottobre (i larici al Colle San Carlo virano tra la prima e la seconda settimana di ottobre: la mail deve arrivare mentre si può ancora prenotare).
+**Invio consigliato:** 24–29 settembre, così restano due weekend prenotabili dentro la finestra del foliage.
+
+**La finestra del foliage:** il Lago d'Arpy è a 2.068 m e a quella quota i larici virano **tra inizio e metà ottobre**; il periodo utile in Valle d'Aosta va da fine settembre alla terza settimana di ottobre (fonte: lovevda.it). Nella mail è dichiarata come **3–18 ottobre**, che copre tre weekend interi (3-4, 10-11, 17-18) — è una finestra, non una data: il picco si sposta di qualche giorno secondo l'estate e le prime gelate.
 **File pronto:** `Hotel_Autunno_Larici.html` — stessa struttura di `Hotel_SPA_Modella.html`.
 **Lunghezza:** ~200 parole, due blocchi di testo, un solo bottone (come la NL di luglio).
 
@@ -8,11 +10,11 @@
 
 ## Oggetto — 3 opzioni
 
-1. `Dura una settimana, poi è finita 🍂` ← consigliata
-2. `Hai mai visto i larici diventare oro?`
-3. `Il momento più bello dell'anno (e il più corto) 🍂`
+1. `Tre weekend, poi è finita 🍂` ← consigliata
+2. `Dal 3 al 18 ottobre, non un giorno di più 🍂`
+3. `Hai mai visto i larici diventare oro?`
 
-**Preheader:** *Il foliage del Lago d'Arpy è a venti minuti da noi. E dura poco.*
+**Preheader:** *A ottobre i larici del Lago d'Arpy diventano oro. Sono a venti minuti da noi.*
 
 ---
 
@@ -22,9 +24,9 @@
 
 Ciao,
 
-c'è una settimana, ogni anno, in cui i larici sopra Morgex diventano oro tutti insieme.
+c'è una manciata di giorni, ogni anno, in cui i larici sopra Morgex diventano oro tutti insieme.
 
-Dura poco, non si può prenotare in anticipo, e chi c'è se lo ricorda per sempre.
+Succede a inizio ottobre. Quest'anno la finestra buona va **dal 3 al 18 ottobre**: tre weekend, non uno di più. Poi gli aghi cadono e si aspetta un anno.
 
 **[ IMMAGINE 2 — vasca idromassaggio esterna della Spa ]**
 
@@ -40,6 +42,8 @@ Ricorda che sul nostro sito ufficiale trovi sempre la certezza delle migliori co
 
 Un caro saluto da Morgex!
 
+**P.S.** Il giorno esatto lo decide il meteo, non il calendario. Prima di partire scrivici su WhatsApp: ti diciamo a che punto sono i larici in tempo reale. 🍂
+
 **[ BOTTONE ]** Scopri le offerte d'autunno! → `https://lesmontagnards.beddy.io/#/(beddy:offers)`
 
 ---
@@ -54,4 +58,5 @@ Un caro saluto da Morgex!
 ## Da verificare prima dell'invio
 
 - **Apertura Spa in bassa stagione:** se a ottobre è chiusa o a orario ridotto, il paragrafo della vasca va tolto — è metà del messaggio.
+- **Le date del foliage (3–18 ottobre):** vanno bene come finestra, ma se a fine settembre i larici sono chiaramente in anticipo o in ritardo, sposta di una settimana prima di inviare. Chi lavora in hotel lo vede dalla finestra.
 - **Offerte autunno su Beddy:** che il link `(beddy:offers)` mostri davvero qualcosa di stagionale, altrimenti meglio puntare alla home.
