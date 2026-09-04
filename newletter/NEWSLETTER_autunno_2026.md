@@ -1,6 +1,6 @@
 # Newsletter Autunno 2026 — Hotel Les Montagnards
 
-**Invio consigliato:** 24–29 settembre, così restano due weekend prenotabili dentro la finestra del foliage.
+**Invio consigliato:** 24–29 settembre, così restano prenotabili tutti e tre i weekend della finestra del foliage.
 
 **La finestra del foliage:** il Lago d'Arpy è a 2.068 m e a quella quota i larici virano **tra inizio e metà ottobre**; il periodo utile in Valle d'Aosta va da fine settembre alla terza settimana di ottobre (fonte: lovevda.it). Nella mail è dichiarata come **3–18 ottobre**, che copre tre weekend interi (3-4, 10-11, 17-18) — è una finestra, non una data: il picco si sposta di qualche giorno secondo l'estate e le prime gelate.
 **File pronto:** `Hotel_Autunno_Larici.html` — stessa struttura di `Hotel_SPA_Modella.html`.
