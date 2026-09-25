@@ -95,7 +95,15 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 - Area relax climatizzata con spiaggia di sale rosa dell'Himalaya
 - Su richiesta: ciabattine e accappatoio, massaggi rilassanti o decontratturanti
 
-**Condizioni:** supplemento oppure inclusa in pacchetti specifici; nessun prezzo pubblico. Orari non indicati. Non è chiaro se è aperta anche a non ospiti. ❓
+**Condizioni** ✅
+- **Aperta a tutti**, anche a chi non dorme in hotel
+- **35 € all'ora** (il sito non pubblica il prezzo)
+- Per gli ospiti può essere inclusa in pacchetti specifici
+- Su prenotazione, accesso contingentato
+
+❓ Da chiarire: il prezzo è a persona o a coppia/gruppo? Orari di apertura? Quante persone al massimo per turno?
+
+**Vale per le comunicazioni:** essendo aperta a tutti e a ore, la Spa è anche un prodotto a sé, vendibile a chi abita in zona o passa da Courmayeur e La Thuile.
 **Da verificare ogni volta prima di una NL:** che sia operativa nel periodo (vedi linee guida newsletter).
 
 ---
@@ -168,7 +176,7 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 ## 12. Buchi da colmare (in ordine di utilità)
 
 1. Condizioni pet: supplemento, numero massimo, cosa c'è per il cane, alternativa per la colazione
-2. Spa: orari, prezzi indicativi, se aperta agli esterni
+2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
 4. Camere per tipologia, posti letto, anno di apertura
 5. Distanze da aeroporto, stazione, casello
