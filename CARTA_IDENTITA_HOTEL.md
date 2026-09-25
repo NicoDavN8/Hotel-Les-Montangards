@@ -40,10 +40,9 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 
 | Località | Distanza da Morgex |
 |---|---|
-| **Courmayeur** (Skyway Monte Bianco, Checrouit, Val Veny) | **~10 km** ✅ |
-| **La Thuile** (collegata a La Rosière, Francia) | **~15 km** ✅ |
+| **Courmayeur** (Skyway Monte Bianco, Checrouit, Val Veny) | **~10 km · 10 minuti in auto** ✅ |
+| **La Thuile** (collegata a La Rosière, Francia) | **~15 km · 20 minuti in auto** ✅ |
 | Pila / Aosta, Cervinia, Monterosa, altre | ❓ |
-| Tempi in auto in inverno | ❓ |
 | Skibus / navetta | **No**: si va in auto ✅ |
 
 ### Altro
@@ -54,11 +53,11 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 | Terme di Pré-Saint-Didier | vicino (❓ distanza esatta) |
 | Aeroporto / stazione / casello | ❓ |
 
-**Lettura:** l'hotel è la base tranquilla *fuori* dalla ressa, ma a 10-15 km da **due comprensori** di sci diversi. Chi dorme a Morgex sceglie ogni mattina dove sciare (Courmayeur o La Thuile, e con La Thuile anche la Francia), a un prezzo più basso e con più silenzio che nelle due località. Va detto con i chilometri, non con "vicino agli impianti".
+**Lettura:** l'hotel è la base tranquilla *fuori* dalla ressa, ma a 10 e 20 minuti d'auto da **due comprensori** di sci diversi. Chi dorme a Morgex sceglie ogni mattina dove sciare (Courmayeur o La Thuile, e con La Thuile anche la Francia), a un prezzo più basso e con più silenzio che nelle due località. Va detto con i chilometri, non con "vicino agli impianti".
 
 **Lo skibus non c'è:** per sciare serve l'auto (o un taxi). Va detto chiaramente, e va detto insieme ai minuti reali di strada e a dove si parcheggia agli impianti, così chi arriva senza auto non resta sorpreso.
 
-❓ Per ogni località servono: minuti in auto in inverno e dove si parcheggia agli impianti.
+❓ Da chiarire: se i tempi valgono anche con neve e traffico d'alta stagione, e dove si parcheggia agli impianti.
 
 ---
 
