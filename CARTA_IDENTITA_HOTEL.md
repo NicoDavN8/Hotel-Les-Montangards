@@ -1,7 +1,7 @@
 # Carta d'identità — Hotel Les Montagnards
 
-**Versione:** 2 · 25 settembre 2026
-**Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /contatti), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
+**Versione:** 3 · 25 settembre 2026
+**Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /cosa-fare/estate, /contatti, /camere, /appartamenti, /offerte), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
 **Legenda:** ✅ confermato · ❓ da confermare col cliente
 
 ---
@@ -56,6 +56,16 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 - **Skyway Monte Bianco**: funivia fino a 3.466 m
 - **Terme di Pré-Saint-Didier**: vasche esterne a 37 °C
 
+### Estate e autunno (giugno-settembre)
+
+- Trekking all'ombra verso il **Lago d'Arpy** e punti panoramici sui ghiacciai
+- Mountain bike, noleggio e-bike, single-track nei boschi
+- Rafting sulla Dora Baltea, arrampicata, equitazione
+- Parco avventura a Pré-Saint-Didier
+- Terme di Pré-Saint-Didier anche d'estate
+- Degustazioni di **Blanc de Morgex** con formaggi e salumi locali
+- SkyWay Monte Bianco, pesca sportiva al Lago d'Arpy
+
 ### Altro
 
 | Destinazione | Distanza |
@@ -107,16 +117,22 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 | Superior | 33 mq | 3 | terrazza |
 | Family Junior Suite | 38 mq | 4 | su due livelli, con terrazza |
 
-❓ Quante camere per tipologia; se i cani sono ammessi in tutte.
+Atmosfera dal sito: «il profumo del legno di larice, la luminosità delle finestre», «silenzio assoluto».
+
+❓ Quante camere per tipologia. Prezzi, letti e bagni non sono pubblicati.
+
+I cani sono ammessi in camera (vedi sezione Pet).
 
 ### Appartamenti vacanze (2)
 
 | Nome | Metri quadri | Ospiti | Dove |
 |---|---|---|---|
 | Maison Blanche | 45 mq | 2 | La Salle |
-| Appartamento Les Montagnards | 65 mq | 4 | ❓ (Morgex) |
+| Appartamento Les Montagnards | 65 mq | 4 | Morgex, **stesso edificio dell'hotel** (trilocale con accesso agli spazi dell'hotel) |
 
-Gestiti dall'hotel. Utili per soggiorni lunghi o piccoli gruppi.
+Entrambi con cucina completa, Wi-Fi e posto auto. Utili per soggiorni lunghi o piccoli gruppi.
+
+❓ Animali negli appartamenti: la pagina non lo dice.
 
 ---
 
@@ -185,6 +201,19 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 | Booking engine (Beddy) | Percorso tortuoso, abbandono alto; valore medio prenotazione ~860 € |
 | Booking.com | Concorrente diretto sulle stesse ricerche (72% di quota impressioni contro il 10% dell'hotel) |
 
+**Offerte sul sito** (prezzi «a partire da»)
+
+| Offerta | Cosa include | Da |
+|---|---|---|
+| Soggiorno Skyway | 1 notte in doppia, colazione, biglietto Skyway fino a Punta Helbronner | 249 € |
+| Fuga Romantica Monte Bianco | esperienza romantica | 290 € |
+| Soggiorno Relax | colazione, aperitivo, 2 massaggi da 50 minuti | 290 € |
+| Fuga Relax | 2 notti, silenzio e benessere | 490 € |
+| Gift Card | regalo di una notte ai piedi del Monte Bianco | a discrezione |
+| Last Minute 2026 | primavera/estate | ❓ |
+
+In tutte: miglior tariffa garantita, cancellazione flessibile, Colazione Alpina, Wi-Fi e parcheggio.
+
 **Condizioni** ✅
 - Cancellazione gratuita fino a **7 giorni** prima
 - Penale del **70%** da 6 giorni prima all'arrivo
@@ -226,5 +255,5 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 1. Pet: importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
-4. Camere per tipologia, anno di apertura, dove si trova l'Appartamento Les Montagnards
+4. Camere per tipologia, anno di apertura, animali negli appartamenti
 5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello

@@ -112,7 +112,7 @@ resort mont avic · rhemes · ristorante · sconti · torgnon · valtournenche
 
 **Problematiche:**
 - `offerte` e `sconti` → bloccano query ad alta intenzione tipo "offerte hotel valle d'aosta"
-- `ristorante` → se l'hotel ha ristorante interno, blocca anche "hotel ristorante les montagnards"
+- `ristorante` → se l'hotel ha ristorante interno, blocca anche "hotel ristorante les montagnards" *(aggiornamento 25 set 2026: l'hotel non ha ristorante, la negativa è corretta)*
 
 ### Aggiunta agosto 2026 — negative a tema lavoro
 

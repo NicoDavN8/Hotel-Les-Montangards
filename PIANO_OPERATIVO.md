@@ -177,7 +177,7 @@ Le proporzioni tra prenotazione e chiamata sono difendibili; il resto no.
 
 ### E. Rivedere due esclusioni generiche
 - `offerte` e `sconti` → bloccano query ad alta intenzione ("offerte hotel valle d'aosta")
-- `ristorante` → se l'hotel ha ristorante, blocca "hotel ristorante les montagnards"
+- `ristorante` → ~~se l'hotel ha ristorante, blocca "hotel ristorante les montagnards"~~ **L'hotel non ha ristorante (confermato 25 set 2026): la negativa può restare**
 
 ### F. Riconciliazione mensile offline
 Foglio con: mese | spesa Google Ads | prenotazioni dirette da PMS | chiamate ricevute.
@@ -190,7 +190,7 @@ Dopo 3-4 mesi dà il costo per prenotazione diretta reale, senza tracciare il bo
 - [ ] Qual è il **margine di contribuzione** medio di una prenotazione diretta?
 - [ ] Qual è il **tasso di chiusura** stimato delle telefonate? (break-even a 10,9% con margine 150 €)
 - [ ] In reception arrivano **richieste di soggiorno lungo / stagionale**?
-- [ ] L'hotel ha un **ristorante interno**? (rileva per l'esclusione `ristorante`)
+- [x] L'hotel ha un **ristorante interno**? **No** (25 set 2026): la negativa `ristorante` resta valida
 - [ ] Quale **booking engine** si usa? (alcuni espongono l'ID conversione in un campo di configurazione)
 - [ ] Le altre **5 campagne** dell'account sono in pausa o attive?
 

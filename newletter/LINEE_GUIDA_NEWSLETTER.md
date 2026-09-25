@@ -84,7 +84,9 @@ La sequenza che si ripete in tutte le NL riuscite:
 
 **Cosa non scrivere:** "esperienza indimenticabile", "location da sogno", "non perdere l'occasione", "vi aspettiamo numerosi", superlativi accumulati, urgenza inventata. Se una scadenza è vera (i larici, un ponte, l'ultima neve) usala; se non lo è, non fabbricarla.
 
-**Elementi ricorrenti da usare quando servono, non sempre insieme:** Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay · Spa Alpina (idromassaggio esterno, sauna, sale rosa) · pet friendly · il silenzio di Morgex.
+**Elementi ricorrenti da usare quando servono, non sempre insieme:** Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay · Spa Alpina (idromassaggio esterno, sauna, sale rosa) · pet friendly · il silenzio di Morgex · Colazione Alpina (torte fatte a mano).
+
+**Fatti da non sbagliare** (dettagli in `CARTA_IDENTITA_HOTEL.md`): l'hotel **non ha ristorante**; la Spa è **aperta a tutti a 35 € all'ora**, su prenotazione; i cani **non entrano in sala colazione durante il servizio né in Spa**; non c'è skibus (Courmayeur 10 min, La Thuile 20 min in auto); aperto 12 mesi.
 
 ---
 
