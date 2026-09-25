@@ -43,7 +43,8 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 | **Courmayeur** (Skyway Monte Bianco, Checrouit, Val Veny) | **~10 km** ✅ |
 | **La Thuile** (collegata a La Rosière, Francia) | **~15 km** ✅ |
 | Pila / Aosta, Cervinia, Monterosa, altre | ❓ |
-| Tempi in auto e navetta / skibus | ❓ |
+| Tempi in auto in inverno | ❓ |
+| Skibus / navetta | **No**: si va in auto ✅ |
 
 ### Altro
 
@@ -55,7 +56,9 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 
 **Lettura:** l'hotel è la base tranquilla *fuori* dalla ressa, ma a 10-15 km da **due comprensori** di sci diversi. Chi dorme a Morgex sceglie ogni mattina dove sciare (Courmayeur o La Thuile, e con La Thuile anche la Francia), a un prezzo più basso e con più silenzio che nelle due località. Va detto con i chilometri, non con "vicino agli impianti".
 
-❓ Per ogni località servono: chilometri, minuti in auto in inverno, se c'è skibus o navetta, dove si parcheggia agli impianti.
+**Lo skibus non c'è:** per sciare serve l'auto (o un taxi). Va detto chiaramente, e va detto insieme ai minuti reali di strada e a dove si parcheggia agli impianti, così chi arriva senza auto non resta sorpreso.
+
+❓ Per ogni località servono: minuti in auto in inverno e dove si parcheggia agli impianti.
 
 ---
 
@@ -190,4 +193,4 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
 4. Camere per tipologia, posti letto, anno di apertura
-5. Distanze dagli impianti (minuti in auto, navetta), poi aeroporto, stazione, casello
+5. Distanze dagli impianti (minuti in auto, parcheggi), poi aeroporto, stazione, casello
