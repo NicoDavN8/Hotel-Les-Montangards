@@ -104,7 +104,13 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 È il tratto identitario più forte, insieme al silenzio. Il servizio dog/pet-sitter su richiesta è una cosa concreta e rara.
 
-❓ Da raccogliere: taglia ammessa, supplemento, numero massimo di animali, cosa c'è per il cane (ciotole, cuccia, aree dedicate, sentieri vicini).
+**Regole** ✅
+- **Nessun limite di taglia**
+- **Non possono entrare nella sala colazione né nella Spa**
+
+**Da dire con onestà nelle comunicazioni:** il cane è benvenuto ovunque tranne in questi due spazi. Chi viaggia con un cane grande o con più animali sa già che non deve preoccuparsi della taglia, e per colazione e Spa c'è il servizio dog/pet-sitter su richiesta.
+
+❓ Da raccogliere: supplemento, numero massimo di animali, cosa c'è per il cane (ciotole, cuccia, aree dedicate, sentieri vicini), dove fa colazione chi ha il cane (in camera? nel dehors?).
 
 ---
 
@@ -134,7 +140,7 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 ## 9. Cosa lo distingue
 
-1. **Pet friendly vero**, con servizio dedicato
+1. **Pet friendly vero**: nessun limite di taglia, servizio dog/pet-sitter su richiesta
 2. **Colazione Alpina con torte fatte a mano** e prodotti km 0
 3. **Silenzio di Morgex**: base tranquilla a 10-15 km da Courmayeur e La Thuile
 4. **Spa Alpina privata** con tinozze a legna, sauna e idromassaggio all'aperto
@@ -161,7 +167,7 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 ## 12. Buchi da colmare (in ordine di utilità)
 
-1. Condizioni pet: taglia, supplemento, ammessi in tutte le camere?, cosa c'è per il cane
+1. Condizioni pet: supplemento, numero massimo, cosa c'è per il cane, alternativa per la colazione
 2. Spa: orari, prezzi indicativi, se aperta agli esterni
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
 4. Camere per tipologia, posti letto, anno di apertura
