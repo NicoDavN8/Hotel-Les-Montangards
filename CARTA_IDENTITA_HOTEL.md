@@ -29,7 +29,6 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **Camere** | 12 nella struttura principale ✅ (posti letto ❓) |
 | **Appartamenti vacanze** | 2, a Morgex e a La Salle ✅ |
 | **Storia** | Nessuna: struttura di recente costruzione ✅ (anno esatto ❓) |
-| **Ristorante** | No ✅ |
 
 ---
 
@@ -59,7 +58,7 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco.
 
 **Colazione Alpina** ⭐ *dato chiave*
 - Prodotti a km 0 e **torte fatte a mano**
-- Unico pasto servito: l'hotel non ha ristorante, quindi la colazione è *il* momento gastronomico e va raccontata
+- È il momento gastronomico dell'hotel e va raccontato
 
 **Pratici**
 - Wi-Fi gratuito in tutta la struttura
@@ -67,7 +66,7 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco.
 - Garage coperto con colonnina di ricarica per auto elettriche
 - Servizio dog/pet-sitter su richiesta
 
-**Non ha ristorante** ✅. ❓ Da verificare: mezza pensione, parcheggio esterno, accessibilità disabili.
+❓ Da verificare: mezza pensione, parcheggio esterno, accessibilità disabili.
 
 ### Camere (12)
 
