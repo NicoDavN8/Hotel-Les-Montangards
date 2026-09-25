@@ -8,7 +8,7 @@
 
 ## 1. In una riga
 
-Hotel a conduzione diretta a **Morgex** (Valdigne, Valle d'Aosta), aperto **tutto l'anno**, **pet friendly**, con una piccola **Spa Alpina** all'aperto. Clientela soprattutto italiana, molti con il cane.
+Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morgex** (Valdigne, Valle d'Aosta), aperto **tutto l'anno**, **pet friendly**, con una piccola **Spa Alpina** all'aperto e la **Colazione Alpina** con torte fatte a mano. Clientela soprattutto italiana, molti con il cane.
 
 ---
 
@@ -25,8 +25,11 @@ Hotel a conduzione diretta a **Morgex** (Valdigne, Valle d'Aosta), aperto **tutt
 | **Booking engine** | Beddy (lesmontagnards.beddy.io) ✅ |
 | **Apertura** | 12 mesi l'anno ✅ |
 | **Organico** | circa 6-7 dipendenti + il proprietario ✅ |
-| **Stelle / camere / posti letto** | ❓ |
-| **Anno di apertura / storia** | ❓ |
+| **Categoria** | 3 stelle superior ✅ |
+| **Camere** | 12 nella struttura principale ✅ (posti letto ❓) |
+| **Appartamenti vacanze** | 2, a Morgex e a La Salle ✅ |
+| **Storia** | Nessuna: struttura di recente costruzione ✅ (anno esatto ❓) |
+| **Ristorante** | No ✅ |
 
 ---
 
@@ -54,8 +57,9 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco.
 - Luminosa sala colazione con veranda, sul giardino fiorito con dehors
 - Zona relax con lettini
 
-**Colazione Alpina**
-- Prodotti a km 0 e torte fatte in casa
+**Colazione Alpina** ⭐ *dato chiave*
+- Prodotti a km 0 e **torte fatte a mano**
+- Unico pasto servito: l'hotel non ha ristorante, quindi la colazione è *il* momento gastronomico e va raccontata
 
 **Pratici**
 - Wi-Fi gratuito in tutta la struttura
@@ -63,7 +67,21 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco.
 - Garage coperto con colonnina di ricarica per auto elettriche
 - Servizio dog/pet-sitter su richiesta
 
-**Non risultano** (❓ verificare): ristorante interno, mezza pensione, parcheggio esterno, accessibilità disabili. Dal sito emerge solo la colazione.
+**Non ha ristorante** ✅. ❓ Da verificare: mezza pensione, parcheggio esterno, accessibilità disabili.
+
+### Camere (12)
+
+| Tipologia | Note |
+|---|---|
+| Doppia Economy | balcone |
+| Doppia Standard | balcone |
+| Doppia Comfort | balcone e **vista sul Monte Bianco** |
+| Superior | terrazza |
+| Family Junior Suite | su due livelli, con terrazza, per le famiglie |
+
+❓ Quante camere per tipologia; se i cani sono ammessi in tutte.
+
+**Appartamenti vacanze:** 2, uno a Morgex e uno a La Salle, gestiti dall'hotel. Utili per soggiorni lunghi o gruppi.
 
 ---
 
@@ -118,10 +136,11 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 ## 9. Cosa lo distingue
 
 1. **Pet friendly vero**, con servizio dedicato
-2. **Silenzio di Morgex**: base tranquilla a 10-15 km da Courmayeur e La Thuile
-3. **Spa Alpina privata** con tinozze a legna, sauna e idromassaggio all'aperto
-4. **Aperto 12 mesi**: fuori stagione, foliage, primavera, non solo neve
-5. **Conduzione diretta e piccola**: 6-7 persone + proprietario, quindi ospitalità personale, WhatsApp che risponde
+2. **Colazione Alpina con torte fatte a mano** e prodotti km 0
+3. **Silenzio di Morgex**: base tranquilla a 10-15 km da Courmayeur e La Thuile
+4. **Spa Alpina privata** con tinozze a legna, sauna e idromassaggio all'aperto
+5. **Aperto 12 mesi**: fuori stagione, foliage, primavera, non solo neve
+6. **Piccolo e nuovo**: 12 camere, 6-7 persone + proprietario, struttura recente. Ospitalità personale, WhatsApp che risponde. Niente storia da vendere: si vende com'è oggi
 
 ❓ Da chiedere al proprietario: cosa *lui* dice di sé in tre frasi, e cosa l'hotel non vuole essere.
 
@@ -137,16 +156,14 @@ Dettagli in `newletter/LINEE_GUIDA_NEWSLETTER.md`.
 
 ## 11. Elementi ricorrenti da citare
 
-Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay · Lago d'Arpy · Spa Alpina · pet friendly · silenzio di Morgex · Colazione Alpina a km 0.
+Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay · Lago d'Arpy · Spa Alpina · pet friendly · silenzio di Morgex · Colazione Alpina e torte fatte a mano.
 
 ---
 
 ## 12. Buchi da colmare (in ordine di utilità)
 
-1. Numero e tipologie di camere, stelle
-2. Ristorante: sì/no (serve anche per le negative di Google Ads)
-3. Condizioni pet: taglia, supplemento, cosa offrono
-4. Spa: orari, prezzi indicativi, se aperta agli esterni
-5. Storia dell'hotel e della famiglia
-6. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
-7. Distanze da aeroporto, stazione, casello
+1. Condizioni pet: taglia, supplemento, ammessi in tutte le camere?, cosa c'è per il cane
+2. Spa: orari, prezzi indicativi, se aperta agli esterni
+3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
+4. Camere per tipologia, posti letto, anno di apertura
+5. Distanze da aeroporto, stazione, casello
