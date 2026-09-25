@@ -32,19 +32,30 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 
 ---
 
-## 3. Posizione
+## 3. Posizione e distanza dagli impianti
 
-Morgex, nella Valdigne, ai piedi del Monte Bianco.
+Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località sciistiche è il dato che pesa di più.**
+
+### Località sciistiche
+
+| Località | Distanza da Morgex |
+|---|---|
+| **Courmayeur** (Skyway Monte Bianco, Checrouit, Val Veny) | **~10 km** ✅ |
+| **La Thuile** (collegata a La Rosière, Francia) | **~15 km** ✅ |
+| Pila / Aosta, Cervinia, Monterosa, altre | ❓ |
+| Tempi in auto e navetta / skibus | ❓ |
+
+### Altro
 
 | Destinazione | Distanza |
 |---|---|
-| Courmayeur | ~10 km ✅ |
-| La Thuile | ~15 km ✅ |
 | Colle San Carlo → Lago d'Arpy | ~20 min in auto + ~1 h a piedi ✅ |
-| Terme di Pré-Saint-Didier, SkyWay | vicino (❓ distanza esatta) |
+| Terme di Pré-Saint-Didier | vicino (❓ distanza esatta) |
 | Aeroporto / stazione / casello | ❓ |
 
-**Lettura:** l'hotel è la base tranquilla *fuori* dalla ressa di Courmayeur e La Thuile, ma a 10-15 minuti da entrambe. È il punto di forza da raccontare, non un limite.
+**Lettura:** l'hotel è la base tranquilla *fuori* dalla ressa, ma a 10-15 km da **due comprensori** di sci diversi. Chi dorme a Morgex sceglie ogni mattina dove sciare (Courmayeur o La Thuile, e con La Thuile anche la Francia), a un prezzo più basso e con più silenzio che nelle due località. Va detto con i chilometri, non con "vicino agli impianti".
+
+❓ Per ogni località servono: chilometri, minuti in auto in inverno, se c'è skibus o navetta, dove si parcheggia agli impianti.
 
 ---
 
@@ -179,4 +190,4 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
 4. Camere per tipologia, posti letto, anno di apertura
-5. Distanze da aeroporto, stazione, casello
+5. Distanze dagli impianti (minuti in auto, navetta), poi aeroporto, stazione, casello
