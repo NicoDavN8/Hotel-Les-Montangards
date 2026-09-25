@@ -1,7 +1,7 @@
 # Carta d'identità — Hotel Les Montagnards
 
-**Versione:** 1 · 25 settembre 2026
-**Fonti:** sito hotelmontagnards.com (/servizi e /servizi/spa), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
+**Versione:** 2 · 25 settembre 2026
+**Fonti:** sito hotelmontagnards.com (home, /servizi e /servizi/spa), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
 **Legenda:** ✅ confermato · ❓ da confermare col cliente
 
 ---
@@ -27,7 +27,9 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **Organico** | circa 6-7 dipendenti + il proprietario ✅ |
 | **Categoria** | 3 stelle superior ✅ |
 | **Camere** | 12 nella struttura principale ✅ (posti letto ❓) |
-| **Appartamenti vacanze** | 2, a Morgex e a La Salle ✅ |
+| **Appartamenti vacanze** | 2 (Maison Blanche a La Salle, Appartamento Les Montagnards) ✅ |
+| **Check-in / check-out** | dalle 14:00 alle 19:00 / entro le 10:30 ✅ |
+| **Atmosfera (dal sito)** | «autentica atmosfera alpina con un'accoglienza intima e raffinata», legno profumato e pietra locale ✅ |
 | **Storia** | Nessuna: struttura di recente costruzione ✅ (anno esatto ❓) |
 
 ---
@@ -76,24 +78,32 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 **Pratici**
 - Wi-Fi gratuito in tutta la struttura
 - Ascensore
-- Garage coperto con colonnina di ricarica per auto elettriche
-- Servizio dog/pet-sitter su richiesta
+- **Parcheggio esterno privato e garage coperti, gratuiti** (il sito lo scrive in home): pesa molto, visto che per gli impianti si va in auto
+- Colonnina di ricarica per auto elettriche nel garage
+- Servizio dog/pet-sitter (❓ sulla home è scritto «incluso», su /servizi «su richiesta»: da chiarire)
 
-❓ Da verificare: mezza pensione, parcheggio esterno, accessibilità disabili.
+❓ Da verificare: mezza pensione, accessibilità disabili.
 
 ### Camere (12)
 
-| Tipologia | Note |
-|---|---|
-| Doppia Economy | balcone |
-| Doppia Standard | balcone |
-| Doppia Comfort | balcone e **vista sul Monte Bianco** |
-| Superior | terrazza |
-| Family Junior Suite | su due livelli, con terrazza, per le famiglie |
+| Tipologia | Metri quadri | Ospiti | Note |
+|---|---|---|---|
+| Doppia Economy | 21 mq | 2 | balcone |
+| Doppia Standard | 22 mq | 2 | balcone |
+| Doppia Comfort | 26 mq | 2 | balcone e **vista sul Monte Bianco** |
+| Superior | 33 mq | 3 | terrazza |
+| Family Junior Suite | 38 mq | 4 | su due livelli, con terrazza |
 
 ❓ Quante camere per tipologia; se i cani sono ammessi in tutte.
 
-**Appartamenti vacanze:** 2, uno a Morgex e uno a La Salle, gestiti dall'hotel. Utili per soggiorni lunghi o gruppi.
+### Appartamenti vacanze (2)
+
+| Nome | Metri quadri | Ospiti | Dove |
+|---|---|---|---|
+| Maison Blanche | 45 mq | 2 | La Salle |
+| Appartamento Les Montagnards | 65 mq | 4 | ❓ (Morgex) |
+
+Gestiti dall'hotel. Utili per soggiorni lunghi o piccoli gruppi.
 
 ---
 
@@ -155,6 +165,11 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 | Booking engine (Beddy) | Percorso tortuoso, abbandono alto; valore medio prenotazione ~860 € |
 | Booking.com | Concorrente diretto sulle stesse ricerche (72% di quota impressioni contro il 10% dell'hotel) |
 
+**Condizioni** ✅
+- Cancellazione gratuita fino a **7 giorni** prima
+- Penale del **70%** da 6 giorni prima all'arrivo
+- **100%** in caso di mancato arrivo
+
 **Messaggio fisso:** "sul nostro sito ufficiale trovi sempre la certezza delle migliori condizioni".
 
 ---
@@ -163,7 +178,7 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 1. **Pet friendly vero**: nessun limite di taglia, servizio dog/pet-sitter su richiesta
 2. **Colazione Alpina con torte fatte a mano** e prodotti km 0
-3. **Silenzio di Morgex**: base tranquilla a 10-15 km da Courmayeur e La Thuile
+3. **Silenzio di Morgex**: base tranquilla a 10 minuti d'auto da Courmayeur e 20 da La Thuile
 4. **Spa Alpina privata** con tinozze a legna, sauna e idromassaggio all'aperto
 5. **Aperto 12 mesi**: fuori stagione, foliage, primavera, non solo neve
 6. **Piccolo e nuovo**: 12 camere, 6-7 persone + proprietario, struttura recente. Ospitalità personale, WhatsApp che risponde. Niente storia da vendere: si vende com'è oggi
@@ -188,8 +203,8 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 ## 12. Buchi da colmare (in ordine di utilità)
 
-1. Condizioni pet: supplemento, numero massimo, cosa c'è per il cane, alternativa per la colazione
+1. Condizioni pet: il pet-sitter è incluso o su richiesta? Supplemento, numero massimo, cosa c'è per il cane, alternativa per la colazione
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
-4. Camere per tipologia, posti letto, anno di apertura
-5. Distanze dagli impianti (minuti in auto, parcheggi), poi aeroporto, stazione, casello
+4. Camere per tipologia, anno di apertura, dove si trova l'Appartamento Les Montagnards
+5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello
