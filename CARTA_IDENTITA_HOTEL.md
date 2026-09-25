@@ -1,7 +1,7 @@
 # Carta d'identità — Hotel Les Montagnards
 
 **Versione:** 2 · 25 settembre 2026
-**Fonti:** sito hotelmontagnards.com (home, /servizi e /servizi/spa), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
+**Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /contatti), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
 **Legenda:** ✅ confermato · ❓ da confermare col cliente
 
 ---
@@ -28,7 +28,7 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **Categoria** | 3 stelle superior ✅ |
 | **Camere** | 12 nella struttura principale ✅ (posti letto ❓) |
 | **Appartamenti vacanze** | 2 (Maison Blanche a La Salle, Appartamento Les Montagnards) ✅ |
-| **Check-in / check-out** | dalle 14:00 alle 19:00 / entro le 10:30 ✅ |
+| **Check-in / check-out** | check-out entro le 10:30 ✅. Check-in: ❓ la home dice 14:00-19:00, /contatti dice 15:00-22:00 (da uniformare sul sito) |
 | **Atmosfera (dal sito)** | «autentica atmosfera alpina con un'accoglienza intima e raffinata», legno profumato e pietra locale ✅ |
 | **Storia** | Nessuna: struttura di recente costruzione ✅ (anno esatto ❓) |
 
@@ -46,6 +46,15 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 | **La Thuile** (collegata a La Rosière, Francia) | **~15 km · 20 minuti in auto** ✅ |
 | Pila / Aosta, Cervinia, Monterosa, altre | ❓ |
 | Skibus / navetta | **No**: si va in auto ✅ |
+
+### Inverno (dicembre-aprile)
+
+- Sci alpino a Courmayeur e La Thuile
+- Sci nordico in Val Ferret
+- Sci alpinismo sulle pendici del Monte Bianco
+- Ciaspolate tra i boschi di larice
+- **Skyway Monte Bianco**: funivia fino a 3.466 m
+- **Terme di Pré-Saint-Didier**: vasche esterne a 37 °C
 
 ### Altro
 
@@ -72,15 +81,19 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 - Zona relax con lettini
 
 **Colazione Alpina** ⭐ *dato chiave*
-- Prodotti a km 0 e **torte fatte a mano**
+- Torte appena sfornate e crostate con marmellate artigianali (fatte a mano)
+- Salumi e formaggi locali, yogurt e miele della Valle d'Aosta
+- Succhi, caffè espresso, cappuccino, tisane di montagna
+- Alternative **senza glutine, senza lattosio e vegane** su richiesta
 - È il momento gastronomico dell'hotel e va raccontato
+- ❓ Orari non pubblicati
 
 **Pratici**
 - Wi-Fi gratuito in tutta la struttura
 - Ascensore
-- **Parcheggio esterno privato e garage coperti, gratuiti** (il sito lo scrive in home): pesa molto, visto che per gli impianti si va in auto
+- **Parcheggio esterno privato gratuito**; garage coperto gratuito **secondo disponibilità** (non garantito). Pesa molto, visto che per gli impianti si va in auto
 - Colonnina di ricarica per auto elettriche nel garage
-- Servizio dog/pet-sitter (❓ sulla home è scritto «incluso», su /servizi «su richiesta»: da chiarire)
+- Servizio dog-sitter **a pagamento** (da /contatti; /servizi dice «su richiesta», la home «incluso»: la versione più precisa è «a pagamento», ❓ prezzo)
 
 ❓ Da verificare: mezza pensione, accessibilità disabili.
 
@@ -133,15 +146,22 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 ## 6. Pet friendly
 
-È il tratto identitario più forte, insieme al silenzio. Il servizio dog/pet-sitter su richiesta è una cosa concreta e rara.
+È il tratto identitario più forte, insieme al silenzio. Il servizio dog-sitter è una cosa concreta e rara.
 
 **Regole** ✅
 - **Nessun limite di taglia**
-- **Non possono entrare nella sala colazione né nella Spa**
+- **Massimo 2 animali** per camera
+- Ammessi **in camera e negli spazi comuni**
+- **Vietati** nella sala colazione (durante il servizio) e nella Spa
+- **Dog-sitter a pagamento**
 
-**Da dire con onestà nelle comunicazioni:** il cane è benvenuto ovunque tranne in questi due spazi. Chi viaggia con un cane grande o con più animali sa già che non deve preoccuparsi della taglia, e per colazione e Spa c'è il servizio dog/pet-sitter su richiesta.
+**Cosa c'è per il cane** ✅
+- **Numerosi sentieri che partono direttamente dall'hotel**
+- Percorsi dog-friendly vicini: **Lago d'Arpy, Val Veny, Val Ferret**
 
-❓ Da raccogliere: supplemento, numero massimo di animali, cosa c'è per il cane (ciotole, cuccia, aree dedicate, sentieri vicini), dove fa colazione chi ha il cane (in camera? nel dehors?).
+**Da dire con onestà nelle comunicazioni:** il cane è benvenuto ovunque tranne in due spazi, e per quelle ore c'è il dog-sitter. Chi ha un cane grande può prenotare senza chiedere.
+
+❓ Da raccogliere: importo del supplemento animale, prezzo del dog-sitter, dove fa colazione chi ha il cane (in camera? a orari separati?).
 
 ---
 
@@ -176,7 +196,7 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 ## 9. Cosa lo distingue
 
-1. **Pet friendly vero**: nessun limite di taglia, servizio dog/pet-sitter su richiesta
+1. **Pet friendly vero**: nessun limite di taglia, fino a 2 animali, sentieri direttamente dall'hotel, dog-sitter
 2. **Colazione Alpina con torte fatte a mano** e prodotti km 0
 3. **Silenzio di Morgex**: base tranquilla a 10 minuti d'auto da Courmayeur e 20 da La Thuile
 4. **Spa Alpina privata** con tinozze a legna, sauna e idromassaggio all'aperto
@@ -203,7 +223,7 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 ## 12. Buchi da colmare (in ordine di utilità)
 
-1. Condizioni pet: il pet-sitter è incluso o su richiesta? Supplemento, numero massimo, cosa c'è per il cane, alternativa per la colazione
+1. Pet: importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
 4. Camere per tipologia, anno di apertura, dove si trova l'Appartamento Les Montagnards
