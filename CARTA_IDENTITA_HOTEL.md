@@ -183,6 +183,10 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 ## 7. Chi sono gli ospiti
 
+**Google: 4,8 su 5 con 301 recensioni** ✅ (dato del cliente, 26 set 2026). È un punteggio molto alto per un hotel di queste dimensioni e si può citare.
+
+❓ Il testo delle recensioni non è ancora in cartella: servono per estrarre cosa lodano e cosa criticano.
+
 - Soprattutto **italiani** ✅
 - **Amanti degli animali**, attratti dal pet friendly ✅
 - Provenienza online (Google Ads): Milano pesa molto (~66% delle impressioni), poi resto d'Italia
@@ -254,6 +258,6 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 1. Pet: importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
-3. Profilo ospite reale e 3-4 frasi ricorrenti nelle recensioni
+3. Testo delle recensioni (il punteggio c'è: 4,8 su 301): frasi ricorrenti, temi lodati e critiche
 4. Camere per tipologia, anno di apertura, animali negli appartamenti
 5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello
