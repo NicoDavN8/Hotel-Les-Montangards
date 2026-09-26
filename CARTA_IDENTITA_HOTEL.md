@@ -185,7 +185,15 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 
 **Google: 4,8 su 5 con 301 recensioni** ✅ (dato del cliente, 26 set 2026). È un punteggio molto alto per un hotel di queste dimensioni e si può citare.
 
-❓ Il testo delle recensioni non è ancora in cartella: servono per estrarre cosa lodano e cosa criticano.
+**Cosa lodano le recensioni** ✅ (dal cliente), in ordine di peso:
+1. **Il pet friendly**, soprattutto
+2. **La Colazione Alpina**
+3. **La comodità** (posizione)
+4. **Il rapporto qualità/prezzo**
+
+È la conferma dal mercato dei punti distintivi della sezione 9: chi recensisce parla di cane, colazione e comodità, non di Spa o di lusso. Le comunicazioni devono partire da lì.
+
+❓ Le critiche non sono state segnalate: se ce ne sono di ricorrenti (rumore, parcheggio, camere piccole, niente ristorante), vanno annotate qui.
 
 - Soprattutto **italiani** ✅
 - **Amanti degli animali**, attratti dal pet friendly ✅
@@ -258,6 +266,6 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 1. Pet: importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
-3. Testo delle recensioni (il punteggio c'è: 4,8 su 301): frasi ricorrenti, temi lodati e critiche
+3. Critiche ricorrenti nelle recensioni e 3-4 frasi testuali dei clienti da usare nelle comunicazioni
 4. Camere per tipologia, anno di apertura, animali negli appartamenti
 5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello
