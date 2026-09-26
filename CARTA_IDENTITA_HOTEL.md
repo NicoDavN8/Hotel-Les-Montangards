@@ -22,6 +22,7 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **WhatsApp** | +39 351 372 0817 ✅ |
 | **Email** | info@hotelmontagnards.com ✅ |
 | **Sito** | hotelmontagnards.com ✅ |
+| **Gestione** | Bieffepi Srl, P.IVA 01259560074 ✅ |
 | **Booking engine** | Beddy (lesmontagnards.beddy.io) ✅ |
 | **Apertura** | 12 mesi l'anno ✅ |
 | **Organico** | circa 6-7 dipendenti + il proprietario ✅ |
@@ -46,6 +47,8 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 | **La Thuile** (collegata a La Rosière, Francia) | **~15 km · 20 minuti in auto** ✅ |
 | Pila / Aosta, Cervinia, Monterosa, altre | ❓ |
 | Skibus / navetta | **No**: si va in auto ✅ |
+
+**Le tre anime della valle** (dal sito): **Morgex** con i vigneti eroici e i ritmi di un borgo; **Courmayeur**, regina dello sci e dello shopping; **La Thuile**, crocevia d'avventura tra bike park, grandi piste e cascate del Rutor.
 
 ### Inverno (dicembre-aprile)
 
@@ -109,8 +112,33 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 
 ### Camere (12)
 
-| Tipologia | Metri quadri | Ospiti | Note |
-|---|---|---|---|
+Tutte con **Wi-Fi, Smart TV 42", frigobar, cassaforte, bollitore con tisane, set cortesia ecofriendly**. Stile alpino, legno di larice.
+
+| Tipologia | mq | Ospiti | Letto e bagno | Il dettaglio |
+|---|---|---|---|---|
+| Doppia Economy | 21 | 2 | matrimoniale large; bagno con doccia | balcone sulla valle, essenziale ma curata |
+| Doppia Standard | 22 | 2 | matrimoniale large o twin; bagno con ampia doccia | balcone privato con vista borgo, scrivania |
+| Doppia Comfort | 26 | 2 | king (o twin su richiesta); bagno con **vasca** e doccia | balcone con **vista Monte Bianco**, 2 sedie lounge, poltroncina |
+| Superior | 33 | 3 | bagno con **vasca**; divanetto trasformabile per il terzo | **terrazza privata con lettini prendisole**, travi a vista, angolo salotto |
+| Family Junior Suite | 38 | 4 | matrimoniale al piano principale + soppalco con futon per **due bambini** | terrazza coperta, travi a vista, lucernario panoramico; privacy ai genitori |
+
+❓ Quante camere per tipologia. I prezzi non sono pubblicati. I cani sono ammessi in camera (vedi sezione Pet).
+
+### Appartamenti vacanze (2)
+
+| | Maison Blanche | Appartamento Les Montagnards |
+|---|---|---|
+| Dove | **La Salle** | **Morgex**, stesso edificio dell'hotel |
+| Formula | bilocale 45 mq, ultimo piano con ascensore | trilocale 65 mq, ingressi indipendenti |
+| Ospiti | 2 | 4 |
+| Spazi | ampia terrazza sul Monte Bianco, zona giorno, camera doppia, divano-letto matrimoniale | cucina abitabile, 2 bagni, balcone, accesso al giardino dell'hotel |
+| Cucina | completa (lavastoviglie, forno, induzione) | completa (frigo, forno, microonde, induzione) |
+| Altro | lavatrice, 2 TV, giardino condominiale, **posto auto coperto** | Wi-Fi, TV, **posto auto esterno** |
+| Extra | set biancheria su richiesta; **pulizia finale obbligatoria** | colazione in hotel, cambio biancheria, posto auto coperto |
+
+❓ Animali negli appartamenti: le pagine non lo dicono.
+
+---|---|---|---|
 | Doppia Economy | 21 mq | 2 | balcone |
 | Doppia Standard | 22 mq | 2 | balcone |
 | Doppia Comfort | 26 mq | 2 | balcone e **vista sul Monte Bianco** |
@@ -138,7 +166,7 @@ Entrambi con cucina completa, Wi-Fi e posto auto. Utili per soggiorni lunghi o p
 
 ## 5. Spa Alpina
 
-**Novità: aperta da circa 4 mesi** (primavera-estate 2026). Piccola zona wellness **con accesso contingentato e su prenotazione**, per garantire riservatezza. Non ha ancora uno storico di recensioni.
+**Novità: aperta da circa 4 mesi** (primavera-estate 2026). Piccola zona wellness **con accesso contingentato e su prenotazione**, per garantire riservatezza. Il sito la presenta come «un percorso benessere privato immerso nella natura valdostana, con vista sul Monte Bianco», lontano «dai circuiti wellness affollati», ideale per una fuga romantica o dopo una giornata di escursioni. Va prenotata già alla conferma del soggiorno (molto richiesta). Non ha ancora uno storico di recensioni.
 
 - Sauna privata in legno
 - Tinozze finlandesi riscaldate a legna
@@ -150,7 +178,8 @@ Entrambi con cucina completa, Wi-Fi e posto auto. Utili per soggiorni lunghi o p
 **Condizioni** ✅
 - **Aperta a tutti**, anche a chi non dorme in hotel
 - **35 € all'ora** (il sito non pubblica il prezzo)
-- Per gli ospiti può essere inclusa in pacchetti specifici
+- Per gli ospiti può essere inclusa in pacchetti specifici; **non è inclusa nella camera**
+- Offerte Last Minute dinamiche, **solo sul sito ufficiale**, soprattutto infrasettimanali tra gennaio e aprile
 - Su prenotazione, accesso contingentato
 
 ❓ Da chiarire: il prezzo è a persona o a coppia/gruppo? Orari di apertura? Quante persone al massimo per turno?
