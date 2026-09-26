@@ -1,6 +1,6 @@
 # Carta d'identità — Hotel Les Montagnards
 
-**Versione:** 3 · 25 settembre 2026
+**Versione:** 4 · 26 settembre 2026
 **Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /cosa-fare/estate, /contatti, /camere, /appartamenti, /offerte), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
 **Legenda:** ✅ confermato · ❓ da confermare col cliente
 
@@ -298,3 +298,5 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 3. Critiche ricorrenti nelle recensioni e 3-4 frasi testuali dei clienti da usare nelle comunicazioni
 4. Camere per tipologia, anno di apertura, animali negli appartamenti
 5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello
+
+**Da chiedere al proprietario o alla reception** (né il sito né il cliente li sanno, 26 set 2026): supplemento animali e prezzo dog-sitter · orari di colazione e Spa · Spa da 35 €/h a persona o a gruppo · check-in (il sito dice 14:00-19:00 in home e 15:00-22:00 in Contatti). **Finché non sono confermati non vanno usati in newsletter e annunci.**
