@@ -90,6 +90,19 @@ La sequenza che si ripete in tutte le NL riuscite:
 
 ---
 
+### Temi collaudati e novità (dalle recensioni Google: 4,8 su 301)
+
+Gli ospiti lodano, in ordine: **pet friendly**, **Colazione Alpina**, **comodità**, **qualità/prezzo**. Sono i temi che reggono la reputazione dell'hotel.
+
+| Tipo | Temi | Come usarli |
+|---|---|---|
+| **Collaudati** | Pet friendly (nessun limite di taglia, fino a 2 animali, sentieri dall'hotel), Colazione Alpina (torte fatte a mano), comodità verso Courmayeur e La Thuile | Fondamenta: tornano ogni pochi mesi come idea centrale di una NL |
+| **Novità** | Spa Alpina, aperta da circa 4 mesi (maggio-giugno 2026), aperta a tutti a 35 € all'ora | Ha ancora poche recensioni: si racconta con dettagli sensoriali, non con giudizi altrui |
+
+Idee di NL ancora non usate: **una NL per chi viaggia con il cane** (sentieri dall'hotel, Lago d'Arpy, Val Veny, Val Ferret; dire chiaro che in sala colazione e in Spa non entrano) e **una NL sulla colazione**.
+
+---
+
 ## 5. Il bottone
 
 **Uno solo per NL.** Due bottoni dimezzano i clic su entrambi.
