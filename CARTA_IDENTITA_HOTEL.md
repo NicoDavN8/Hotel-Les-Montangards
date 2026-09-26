@@ -138,7 +138,7 @@ Entrambi con cucina completa, Wi-Fi e posto auto. Utili per soggiorni lunghi o p
 
 ## 5. Spa Alpina
 
-Piccola zona wellness **con accesso contingentato e su prenotazione**, per garantire riservatezza.
+**Novità: aperta da circa 4 mesi** (primavera-estate 2026). Piccola zona wellness **con accesso contingentato e su prenotazione**, per garantire riservatezza. Non ha ancora uno storico di recensioni.
 
 - Sauna privata in legno
 - Tinozze finlandesi riscaldate a legna
@@ -191,7 +191,7 @@ Piccola zona wellness **con accesso contingentato e su prenotazione**, per garan
 3. **La comodità** (posizione)
 4. **Il rapporto qualità/prezzo**
 
-È la conferma dal mercato dei punti distintivi della sezione 9: chi recensisce parla di cane, colazione e comodità, non di Spa o di lusso. Le comunicazioni devono partire da lì.
+È la conferma dal mercato dei punti distintivi della sezione 9. La Spa non compare perché è **nuova (aperta da circa 4 mesi)**: le recensioni non ci sono ancora, non è un segnale di scarso interesse. Il fondamento della reputazione è cane, colazione e comodità; la Spa è la novità da costruirci sopra.
 
 ❓ Le critiche non sono state segnalate: se ce ne sono di ricorrenti (rumore, parcheggio, camere piccole, niente ristorante), vanno annotate qui.
 
