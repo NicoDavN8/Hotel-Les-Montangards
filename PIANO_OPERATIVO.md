@@ -1,6 +1,6 @@
 # Hotel Les Montagnards — Piano operativo Google Ads
 
-**Aggiornato:** 3 agosto 2026
+**Aggiornato:** 6 ottobre 2026
 **Riferimento analisi:** `ANALISI_Google_Ads_mag-lug_2026.md`
 **Campagna:** `PMax_Hotel_Summer 26` (Performance Max, 15 €/giorno, **Limitata dal budget**)
 
@@ -11,6 +11,7 @@
 | Data | Cosa |
 |---|---|
 | **3 ago 2026** | ✅ Aggiunte 47 negative a tema lavoro |
+| **5-6 ott 2026** | ✅ Revisione massiva delle negative sulla PMax: 760 live (vedi `esclusioni/`) |
 | **subito** | 1) CPA target 12,15 € → 20 €  ·  2) poi sistemare le azioni di conversione  ·  3) avvisare il cliente del calo atteso |
 | **3-24 ago** | Periodo di riapprendimento — **non toccare niente**. Nel frattempo recuperare i diagnostici |
 | **⚠️ 17 ago 2026** | **Scadenza dura Google**: le campagne limitate dal budget iniziano ad applicare il CPA target alla lettera. Il target va alzato **prima** di questa data |
@@ -23,6 +24,11 @@
 
 - [x] **Negative a tema lavoro** — 47 negative a frase aggiunte a livello account
   *Impatto atteso nullo (zero query di lavoro su 2.355 termini). Manutenzione preventiva.*
+- [x] **Revisione massiva negative PMax (6 ott 2026)** — 760 negative a livello campagna (531 esatte, 121 a frase, 108 generiche), account `4130469299`
+  *Dettaglio, confronto con il file preparato e voci da ricontrollare in `esclusioni/esclusioni_pmax_montagnards.md`. Snapshot completo in `esclusioni/PMax_negative_live_2026-10-06.csv`.*
+  - [ ] Confermare le **79 voci preparate ma non inserite** (comuni fuori zona, competitor di Aosta, OTA minori, QC Terme)
+  - [ ] Rivedere `offerte`, `sconti`, `centro`, `montagna`, `montana` (generiche live che bloccano ricerche utili)
+  - [ ] Ricontrollare i termini di ricerca tra 2-3 settimane (~27 ott 2026)
 
 ---
 
