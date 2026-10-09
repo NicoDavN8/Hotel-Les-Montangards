@@ -53,25 +53,73 @@ Nessun altro testo oltre a questi.
 ## Slide 2 · Cosa funziona già
 
 ```
+Sostituisci la slide 2 con questa versione.
 Slide 2 – Titolo: COSA FUNZIONA GIÀ
-Griglia di 6 riquadri bianchi (3 per riga), ognuno con un numero grande
-e una riga di spiegazione sotto:
+Sfondo blu con sfumatura come da stile (niente foto).
+Griglia di 8 riquadri bianchi uguali con angoli arrotondati, 4 per riga.
+In ogni riquadro un numero molto grande in blu #1B4A8F e sotto una riga
+di spiegazione più piccola:
 - 4,8/5 — Google (301 recensioni)
 - 9,4/10 — Booking (oltre 540 recensioni)
 - 4,8/5 — Tripadvisor
 - 11 — volte in cui ChatGPT, Gemini e Google AI nominano l'hotel
-  (sotto, più piccolo: "Pagine del sito usate come fonte: Home · Pet friendly ·
+  (sotto, più piccolo: "Pagine usate come fonte: Home · Pet friendly ·
   Spa · Contatti — dati Semrush")
 - +39% — visitatori da Francia e Svizzera rispetto al 2025
 - 92/100 — velocità del sito su mobile
-Sotto la griglia, una fascia bianca con due righe:
+- 1 min 19 s — tempo medio sul sito di chi arriva da Google (+29%
+  rispetto al 2025)
+- 89/100 — quanto il sito è leggibile dalle intelligenze artificiali
+  (Semrush)
+Sotto la griglia, una fascia bianca larga quanto la griglia con due
+righe, ognuna con una piccola icona a sinistra:
 - "Hotel Morgex" è la ricerca che rende di più: un contatto costa circa
   un terzo rispetto alle altre ricerche.
 - I clienti premiano: l'accoglienza dei cani · la colazione con torte
   fatte in casa · la posizione · e ora c'è la nuova Spa Alpina.
+Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
 
 > **Tolto di proposito:** "13.622 € di prenotazioni online (lug–set 2026)". È il valore delle prenotazioni Beddy registrate da GA4 (slide 5 del vecchio report): lordo, senza cancellazioni, e senza chi rifiuta i cookie. Non è verificato e forse nemmeno il proprietario lo conosce. Diventa un'azione del piano (confronto GA4 / Beddy).
+
+## Slide 2b · Google Ads (dopo la slide 2)
+
+> Aggiunta il 9 ott 2026. Dati Google Ads lug–set 2026, verificati azione per azione: le "chiamate" sono **richieste di chiamata** (tocchi sul tasto o sul numero), non telefonate verificate. Le telefonate vere senza risposta vengono dal dettaglio chiamate (call_view, 2026).
+
+```
+Aggiungi una nuova slide subito dopo la slide 2.
+Titolo: GOOGLE ADS · LUGLIO–SETTEMBRE 2026
+Sfondo blu con sfumatura come da stile (niente foto).
+In alto 3 riquadri bianchi grandi, uguali, con un numero molto grande e
+una riga sotto:
+- 153 — richieste di chiamata (tocchi sul tasto "Chiama" e sul numero)
+- 177 — chat WhatsApp aperte
+- 2 — prenotazioni online
+Sotto, una fascia bianca con tre numeri più piccoli affiancati:
+- 1.370 € — spesa in tre mesi (456 € al mese)
+- circa 4 € — costo per contatto
+- 2–3 prenotazioni — bastano a ripagare tre mesi di pubblicità
+In fondo un riquadro bianco con bordo rosso:
+"4 chiamate su 10 restano senza risposta (55 su 138 nel 2026).
+Ogni chiamata persa è un cliente che può finire su Booking."
+Nota piccola in basso: "Contatti registrati da Google Ads: persone
+arrivate tramite gli annunci."
+Logo N8 piccolo in basso a destra. Nessun altro testo.
+```
+
+**Cosa dire:** "La pubblicità i contatti li porta: più di 300 in tre mesi, a circa 4 € l'uno. Il punto debole è rispondere: 4 chiamate su 10 cadono nel vuoto, soprattutto a metà mattina, nel pomeriggio e nel weekend." Soluzioni, se chiede:
+- deviare le chiamate su un cellulare;
+- negli orari scoperti, mostrare negli annunci WhatsApp al posto del tasto "Chiama".
+
+## (Slide "Visite da Google": tolta)
+
+> Tolta il 9 ott 2026 su richiesta di Nicolò: il dato "479 visite, -63%" in una slide di risultati fa una brutta figura. I due dati organici positivi vanno nella slide 2:
+> - **1 min 19 s:** tempo medio di chi arriva da Google, +29% sul 2025;
+> - **89/100:** sito leggibile dalle AI (Semrush).
+>
+> **Prompt per la slide 2:** "Nella slide 2 passa da 6 a 8 riquadri (4 per riga) e aggiungi: '1 min 19 s — tempo medio sul sito di chi arriva da Google (+29% rispetto al 2025)' e '89/100 — quanto il sito è leggibile dalle intelligenze artificiali (Semrush)'. Mantieni lo stesso stile e non cambiare gli altri sei."
+>
+> **Il -63%** (479 visite organiche lug–set 2026 contro 1.287 nel 2025, GA4) resta solo nelle note, da usare se il proprietario chiede. Risposta: "Il calo coincide con il nuovo sito di ottobre 2025, che ha perso i vecchi indirizzi. È la prima cosa che sistemiamo."
 
 ## Slide 3 · I problemi in breve
 
@@ -89,7 +137,8 @@ un'etichetta colorata con la scadenza:
 1. I vecchi indirizzi non portano alle nuove pagine
    Con il nuovo sito le pagine hanno cambiato indirizzo, ma i vecchi
    indirizzi non sono stati collegati ai nuovi: 108 portano a "pagina
-   non trovata". Visite da Google: -63% rispetto all'estate 2025.
+   non trovata", e chi arriva da Google o da altri siti trova la porta
+   chiusa.
 2. Il telefono nel menu è sbagliato
    Da cellulare si chiama un numero inesistente. Ed è il canale con cui
    arrivano più prenotazioni.
@@ -246,8 +295,8 @@ IL BLOG: UN ARTICOLO AL MESE
 
 OGNI MESE, COSA MISURIAMO
 - ChatGPT e Gemini: quante volte consigliano l'hotel su 20 domande fisse
-- Telefonate e WhatsApp: oggi circa 50 telefonate e 60 messaggi WhatsApp
-  al mese (media luglio–settembre 2026), da far crescere
+- Chiamate e WhatsApp: oggi circa 50 richieste di chiamata e 60 chat
+  WhatsApp al mese (media luglio–settembre 2026), da far crescere
 - Primo bilancio insieme: confronto con il punto di partenza
 
 Logo N8 piccolo in basso a destra. Nessun altro testo.
@@ -263,7 +312,7 @@ Logo N8 piccolo in basso a destra. Nessun altro testo.
 | MSG WhatsApp da ADS | 0 | 10 | 20 |
 | Acquisto | 0 | 0 | 2 (766 €) |
 
-Telefonate 153 in tutto, circa 51 al mese; WhatsApp 177, circa 59 al mese.
+Richieste di chiamata 153 in tutto, circa 51 al mese; clic WhatsApp 177, circa 59 al mese. ⚠️ Le due azioni "chiamate" contano i **tocchi sul tasto o sul numero**, non telefonate verificate: le telefonate vere sono solo nel dettaglio chiamate (call_view) e il 40% resta senza risposta.
 - **Prenotazioni online escluse** dalla slide: Ads ne vede 2, mentre GA4 riporta 13.622 € (lug–set). Da confrontare prima con Beddy.
 - **Da sapere:** Ads registra solo i contatti che riesce a collegare a una pubblicità, e le "Chiamate da ADS" partono dagli annunci, non dal sito.
 - **Calo a settembre:** WhatsApp da 81 a 38 e telefonate da 56 a 38. Probabilmente è stagionalità.
