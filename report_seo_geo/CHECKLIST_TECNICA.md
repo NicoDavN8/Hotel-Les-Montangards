@@ -46,6 +46,8 @@ Sito: WordPress 7.1.3 · Oxygen Builder · WPML (IT/FR/EN) · Rank Math · LiteS
 
 ## Settimana 2 · 19–23 ottobre (servono le risposte del proprietario)
 
+> **Priorità:** le 4 pagine che Semrush rileva come fonti delle AI sono **Home, Pet friendly, Spa e Contatti** (confermate il 9 ott). Si correggono per prime, in tutte e tre le lingue: check-in e garage in Home e Contatti; meta e regole nella pagina Pet; prezzo e orari nella pagina Spa.
+
 ### 6. Carta d'identità definitiva
 Aggiornare `CARTA_IDENTITA_HOTEL.md` con le risposte: check-in, supplemento cani, dog-sitter, Spa (prezzo, orari, capienza, apertura agli esterni), colazione, cuccia e ciotole.
 
@@ -56,6 +58,7 @@ Aggiornare `CARTA_IDENTITA_HOTEL.md` con le risposte: check-in, supplemento cani
 | Home (FAQ) vs `/contatti` (FAQ), in tutte e 3 le lingue | check-in 14–19 vs 15–22 | un solo orario, quello confermato |
 | `/camere`, meta description | "Wi-Fi, colazione alpina e **piccola spa inclusi**"; nomi delle camere sbagliati (Matrimoniale Economy, Junior Suite, Matrimoniale Deluxe) | togliere la Spa; usare i nomi reali |
 | `/servizi`, meta description | "**Tutto incluso!**" | togliere |
+| **Garage**: FAQ della home IT ("un garage **gratuito** previa disponibilità") e FR ("garage couvert **gratuit**"); `/offerte` ("Wi-Fi e parcheggio inclusi", non dice quale) | il parcheggio **scoperto è gratuito**, il **garage coperto è a pagamento** (Nicolò, 9 ott) | togliere "gratuito" dal garage; nelle offerte scrivere "parcheggio scoperto incluso". Tariffa del garage dopo la conferma del proprietario. La meta "parcheggio gratuito" della home va bene (si riferisce allo scoperto) |
 | `/camere/family-junior-suite`, meta IT/FR/EN | **copiata dalla Superior**: "33 m², letto king, vasca, camera deluxe" | 38 m², 4 ospiti, matrimoniale + soppalco con futon per 2 bambini, terrazza coperta |
 | `/camere/matrimoniale-deluxe` | in IT si chiama "Matrimoniale Deluxe" (title, H1, URL), altrove "Superior con terrazza" | rinominare in "Superior con terrazza". Se si cambia lo slug, aggiungere il redirect |
 | `/servizi/pet-friendly`, meta | "Cani ammessi **fino senza** limitazioni di taglia, ciotole e cuccia su richiesta" | correggere la frase; ciotole e cuccia solo se confermate. Nel testo mancano il massimo di 2 cani e il dog-sitter |
@@ -92,23 +95,61 @@ Aggiornare `CARTA_IDENTITA_HOTEL.md` con le risposte: check-in, supplemento cani
 
 Ogni volta che si cambia uno slug, aggiungere il redirect dal vecchio.
 
-### 10. Dati strutturati (schema)
-**Situazione:**
-- l'hotel è dichiarato come `Person`/`Organization` di nome "Bieffepi Srl";
-- le pagine sono `Article`, con autore "digival" e `sameAs: https://www.hotelmontagnards.com/NEW`;
-- **camere, servizi, dintorni, esperienze e offerte non hanno alcun JSON-LD.**
+### 10. Dati strutturati (schema): procedura passo passo
+**Oggi (home):**
+- "Bieffepi Srl" registrata come `Person` + `Organization`;
+- la home è un `Article` scritto da "digival", con `sameAs …/NEW`;
+- **l'hotel non c'è.**
 
-**Cosa fare:**
-- **Rank Math → Titoli e meta → SEO locale:** tipo **Hotel** (non Persona); nome "Hotel Les Montagnards"; logo, indirizzo, telefono, coordinate `45.7554244, 7.0390777`; social in sameAs (`facebook.com/hotelmontagnardsmorgex`, `instagram.com/hotel.les.montagnards`).
-- **Schema predefinito delle pagine:** da Article a nessuno o WebPage.
-- **Autore "digival":** svuotare il campo sito/URL del profilo (genera il `sameAs …/NEW`).
-- **JSON-LD Hotel completo:** con Rank Math (schema personalizzato) o con uno snippet. Bozza da completare quando il check-in sarà confermato:
+**Obiettivo:** mostrare **Hotel Les Montagnards** come `Hotel`, con **Bieffepi Srl (holding proprietaria) come ragione sociale**. Tempo: circa 1,5 ore.
+Le etichette di Rank Math possono essere in italiano o in inglese: le indico entrambe.
 
-```json
+**Passo 1 · Identità (Rank Math, ~15 min)**
+1. Rank Math SEO → Dashboard → Moduli: controlla che **SEO locale / Local SEO** e **Schema** siano attivi.
+2. Rank Math SEO → **Titoli e meta → SEO locale** (Titles & Meta → Local SEO) e compila:
+
+| Campo | Valore |
+|---|---|
+| Persona o azienda | **Azienda** (Company) |
+| Nome del sito | Hotel Les Montagnards |
+| Nome della persona o organizzazione | **Hotel Les Montagnards** |
+| Tipo di attività (Business Type) | **Hotel** |
+| Logo | logo quadrato, almeno 112×112 px |
+| URL | https://www.hotelmontagnards.com |
+| Email · Telefono | info@hotelmontagnards.com · +39 0165 1710000 |
+| Indirizzo | Viale della Rimembranza 26/30, 11017 Morgex (AO), IT |
+| Coordinate geografiche | 45.7554244, 7.0390777 |
+| Pagina Chi siamo · Contatti | /noi-siamo.html · /contatti |
+
+Se un campo non c'è nella tua versione, saltalo: lo copre il passo 4.
+3. **Titoli e meta → Social Meta:** URL della pagina Facebook, e nei **profili aggiuntivi** l'Instagram. Diventano il `sameAs`.
+
+**Passo 2 · La home non è un "articolo" (~10 min)**
+1. **Titoli e meta → Pagine** (Pages): tipo di schema predefinito da Article a **Nessuno** (None).
+2. Apri la **home** in modifica → barra di Rank Math → scheda **Schema**: se c'è ancora "Article", eliminalo.
+3. Fai lo stesso controllo su **Contatti**, **Servizi** e **Offerte**.
+
+**Passo 3 · Autore "digival" (~2 min)**
+1. Utenti → digival → **svuota il campo "Sito web"**: genera il `sameAs …/NEW`.
+2. Rank Math → Titoli e meta → **Autori**: archivi autore disattivati.
+
+**Passo 4 · La scheda completa dell'hotel (~30 min)**
+Rank Math gratuito non ha il tipo Hotel tra gli schemi personalizzati, quindi usa una di queste tre strade:
+- **(a)** Rank Math **Pro** → Schema → Generatore → **Schema personalizzato**: incolla il codice qui sotto e applicalo **solo alla home**;
+- **(b)** plugin gratuito **WPCode** → nuovo snippet HTML in `<head>`, mostrato **solo sulla home**;
+- **(c)** **Oxygen** → template della home → elemento **Code Block** con il codice.
+
+Lo stesso `@id` di Rank Math (`#organization`) fa sì che Google unisca questa scheda a quella del passo 1, invece di vederne due.
+
+```html
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Hotel",
+  "@id": "https://www.hotelmontagnards.com/#organization",
   "name": "Hotel Les Montagnards",
+  "legalName": "Bieffepi Srl",
+  "vatID": "IT01259560074",
   "url": "https://www.hotelmontagnards.com/",
   "telephone": "+39 0165 1710000",
   "email": "info@hotelmontagnards.com",
@@ -118,13 +159,13 @@ Ogni volta che si cambia uno slug, aggiungere il redirect dal vecchio.
   "starRating": {"@type": "Rating", "ratingValue": "3"},
   "numberOfRooms": 12,
   "petsAllowed": true,
-  "checkinTime": "TODO",
   "checkoutTime": "10:30",
   "amenityFeature": [
-    {"@type": "LocationFeatureSpecification", "name": "Parcheggio privato gratuito", "value": true},
-    {"@type": "LocationFeatureSpecification", "name": "Garage coperto (secondo disponibilità)", "value": true},
+    {"@type": "LocationFeatureSpecification", "name": "Parcheggio scoperto privato gratuito", "value": true},
+    {"@type": "LocationFeatureSpecification", "name": "Garage coperto a pagamento (secondo disponibilità)", "value": true},
     {"@type": "LocationFeatureSpecification", "name": "Ricarica auto elettriche", "value": true},
     {"@type": "LocationFeatureSpecification", "name": "Sauna", "value": true},
+    {"@type": "LocationFeatureSpecification", "name": "Tinozze finlandesi riscaldate a legna", "value": true},
     {"@type": "LocationFeatureSpecification", "name": "Idromassaggio esterno", "value": true},
     {"@type": "LocationFeatureSpecification", "name": "Wi-Fi gratuito", "value": true},
     {"@type": "LocationFeatureSpecification", "name": "Ascensore", "value": true},
@@ -132,9 +173,21 @@ Ogni volta che si cambia uno slug, aggiungere il redirect dal vecchio.
   ],
   "sameAs": ["https://www.facebook.com/hotelmontagnardsmorgex", "https://www.instagram.com/hotel.les.montagnards/"]
 }
+</script>
 ```
 
-- **Poi:** `HotelRoom` sulle schede camera (occupancy, floorSize, bed) e `FAQPage` dove ci sono FAQ. Le FAQ non producono più rich result, ma aiutano la lettura automatica. Il tutto nelle 3 lingue. Verifica con validator.schema.org.
+**Da aggiungere dopo le risposte del proprietario:**
+- `"checkinTime": "…"`, con l'orario confermato;
+- i limiti sui cani nella descrizione (se esistono).
+
+**Non** mettere `aggregateRating` con le recensioni Google o Booking: le stelle in Google non escono comunque per l'hotel che valuta se stesso, e rischia di essere considerato markup scorretto.
+
+**Passo 5 · Verifica (~10 min)**
+1. Svuota la cache di LiteSpeed.
+2. Apri il [Test dei risultati multimediali](https://search.google.com/test/rich-results?url=https%3A%2F%2Fwww.hotelmontagnards.com%2F) e [validator.schema.org](https://validator.schema.org/) sulla home. Deve comparire **Hotel – Hotel Les Montagnards** con indirizzo e servizi, e **non** devono comparire più `Person` né `Article`.
+3. Controlla anche `/fr` e `/en`: le impostazioni di Rank Math valgono per tutte le lingue, ma con WPML verifica che lo snippet sia attivo anche lì.
+
+**Dopo (con calma):** `HotelRoom` nelle schede camera e `FAQPage` dove ci sono FAQ, in tutte e tre le lingue.
 
 ### 11. Fonti esterne
 - **Scheda Google:**
@@ -147,6 +200,9 @@ Ogni volta che si cambia uno slug, aggiungere il redirect dal vecchio.
 - **Booking ed Expedia:** descrizione della **nuova** Spa (alcune schede parlano di "docce aromatiche"); attributi animali.
 - **lovevda.it**, il portale ufficiale regionale (scheda 9004983): non cita né cani né Spa. Verificare come aggiornarla (ufficio turistico regionale). Dati presenti: 25 posti letto, 16 bagni, 922 m, listino 2025-26.
 - **yesalps.com** chiama l'hotel "B&B-Hotel".
+- **Expedia e Hotels.com** (dai risultati di ricerca, pagine bloccate ai controlli automatici): **cani "fino a 10 kg"** e "gratis". Va confrontato con la risposta del proprietario: se non c'è limite di peso, è l'errore più dannoso, perché esclude i cani di media e grande taglia. Ciotole "disponibili".
+- **Travelocity**: indica un **ristorante**, che non c'è, e il "parcheggio a pagamento" (vero solo per il garage: lo scoperto è gratuito).
+- **Omonimia**: esiste un "Hotel Les Montagnards" a **Morteau (Francia)**, sito hotel-les-montagnards.com. Nelle schede e nei testi usare sempre "Hotel Les Montagnards **Morgex**".
 - **Bing Places**; facoltativo Apple Business Connect.
 - **Beddy:** chiedere del collegamento a **Google Hotel Center / free booking links**, per avere il prezzo del sito ufficiale accanto a Booking su Google Hotels e AI Mode.
 

@@ -23,7 +23,7 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **WhatsApp** | +39 351 372 0817 ✅ |
 | **Email** | info@hotelmontagnards.com ✅ |
 | **Sito** | hotelmontagnards.com ✅ |
-| **Gestione** | Bieffepi Srl, P.IVA 01259560074 ✅ |
+| **Gestione** | Bieffepi Srl, P.IVA 01259560074: **holding proprietaria** dell'hotel ✅ |
 | **Booking engine** | Beddy (lesmontagnards.beddy.io) ✅ |
 | **Apertura** | 12 mesi l'anno ✅ |
 | **Organico** | circa 6-7 dipendenti + il proprietario ✅ |
@@ -108,7 +108,7 @@ Morgex, nella Valdigne, ai piedi del Monte Bianco. **La distanza dalle località
 **Pratici**
 - Wi-Fi gratuito in tutta la struttura
 - Ascensore
-- **Parcheggio esterno privato gratuito**; garage coperto gratuito **secondo disponibilità** (non garantito). Pesa molto, visto che per gli impianti si va in auto
+- **Parcheggio esterno scoperto privato: gratuito** ✅ · **Garage coperto: a pagamento**, secondo disponibilità ✅ (Nicolò, 9 ott 2026). ⚠️ Il sito in alcuni punti chiama il garage "gratuito" (FAQ home IT/FR): da correggere. ❓ Tariffa del garage; se nelle offerte il garage è incluso; la colonnina di ricarica è nel garage, quindi chi ricarica paga il garage? Pesa molto, visto che per gli impianti si va in auto
 - Colonnina di ricarica per auto elettriche nel garage
 - Servizio dog-sitter **a pagamento** (da /contatti; /servizi dice «su richiesta», la home «incluso»: la versione più precisa è «a pagamento», ❓ prezzo)
 
@@ -198,7 +198,7 @@ Entrambi con cucina completa, Wi-Fi e posto auto. Utili per soggiorni lunghi o p
 È il tratto identitario più forte, insieme al silenzio. Il servizio dog-sitter è una cosa concreta e rara.
 
 **Regole** ✅
-- **Nessun limite di taglia**
+- **Nessun limite di taglia** (così dice il sito) ❓ Expedia e Hotels.com scrivono **"fino a 10 kg"**: da chiedere al proprietario se esiste un limite di peso
 - **Massimo 2 animali** per camera
 - Ammessi **in camera e negli spazi comuni**
 - **Vietati** nella sala colazione (durante il servizio) e nella Spa
@@ -297,10 +297,10 @@ Monte Bianco · Courmayeur e La Thuile · Terme di Pré-Saint-Didier · SkyWay �
 
 ## 12. Buchi da colmare (in ordine di utilità)
 
-1. Pet: importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
+1. Pet: **limite di peso** (le OTA dicono 10 kg, il sito nessun limite), importo del supplemento, prezzo del dog-sitter, dove fa colazione chi ha il cane
 2. Spa: prezzo a persona o a gruppo, orari, capienza per turno
 3. Critiche ricorrenti nelle recensioni e 3-4 frasi testuali dei clienti da usare nelle comunicazioni
 4. Camere per tipologia, anno di apertura, animali negli appartamenti
 5. Parcheggio agli impianti, tempi con neve, poi aeroporto, stazione, casello
 
-**Da chiedere al proprietario o alla reception** (né il sito né il cliente li sanno, 26 set 2026): supplemento animali e prezzo dog-sitter · orari di colazione e Spa · Spa da 35 €/h a persona o a gruppo · check-in (il sito dice 14:00-19:00 in home e 15:00-22:00 in Contatti). **Finché non sono confermati non vanno usati in newsletter e annunci.**
+**Da chiedere al proprietario o alla reception** (né il sito né il cliente li sanno, 26 set 2026): supplemento animali e prezzo dog-sitter · orari di colazione e Spa · Spa da 35 €/h a persona o a gruppo · check-in (il sito dice 14:00-19:00 in home e 15:00-22:00 in Contatti) · **garage coperto** (a pagamento: tariffa? incluso nelle offerte? vale anche per la ricarica elettrica?) · **limite di peso dei cani** (le OTA dicono 10 kg). **Finché non sono confermati non vanno usati in newsletter e annunci.**
