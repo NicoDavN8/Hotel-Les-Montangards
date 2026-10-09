@@ -6,7 +6,7 @@ Sito: WordPress 7.1.3 · Oxygen Builder · WPML (IT/FR/EN) · Rank Math · LiteS
 
 ---
 
-## Settimana 1 · 12–16 ottobre
+## Fase 1 · 12–30 ottobre
 
 ### 1. Telefono sbagliato nel menu ⚠️
 - **Dove:** pannello del menu (blocco "Contattaci" in alto, Oxygen `text_block-808-89`), presente su **tutte le pagine**.
@@ -14,11 +14,11 @@ Sito: WordPress 7.1.3 · Oxygen Builder · WPML (IT/FR/EN) · Rank Math · LiteS
 - **Correggere in:** `href="tel:+3901651710000"`. Il footer (`link_text-19-108`) è già giusto.
 - Dopo la modifica svuota la cache di LiteSpeed.
 
-### 2. Tasto "Chiama" su mobile → DIGIVAL (se non si riesce da Oxygen)
-- La barra fissa in basso (`bottom-bar`) ha WhatsApp, email e "Prenota ora", **ma nessun tasto per chiamare**. Il telefono è il canale di vendita principale (vedi analisi Ads).
+### 2. Tasto "Chiama" su mobile → **deciso di no** (9 ott)
+- La barra fissa in basso resta com'è (WhatsApp, email, "Prenota ora"): aggiungere la chiamata la sovraffollerebbe. Il telefono resta raggiungibile dal menu (link da correggere, punto 1) e dal footer.
 
 ### 3. Google Search Console + Bing
-- **Non esiste.** Creare la proprietà con l'account Google dell'hotel (o dare accesso a N8):
+- **Non esiste.** La crea Nicolò con il suo account (ha già accesso a WordPress, GA4 e scheda Google):
   - **Dominio** (via DNS, serve chi gestisce il dominio), oppure
   - **Prefisso URL** `https://www.hotelmontagnards.com/`, verificabile tramite GTM/GA4 già installati o con il meta tag in Rank Math → Impostazioni generali → Strumenti per webmaster.
 - **Inviare le sitemap:** `/sitemap_index.xml`, `/fr/sitemap_index.xml`, `/en/sitemap_index.xml`.
@@ -44,7 +44,7 @@ Sito: WordPress 7.1.3 · Oxygen Builder · WPML (IT/FR/EN) · Rank Math · LiteS
 
 ---
 
-## Settimana 2 · 19–23 ottobre (servono le risposte del proprietario)
+## Fase 2 · 2–20 novembre (servono le risposte del proprietario)
 
 > **Priorità:** le 4 pagine che Semrush rileva come fonti delle AI sono **Home, Pet friendly, Spa e Contatti** (confermate il 9 ott). Si correggono per prime, in tutte e tre le lingue: check-in e garage in Home e Contatti; meta e regole nella pagina Pet; prezzo e orari nella pagina Spa.
 
@@ -71,13 +71,13 @@ Aggiornare `CARTA_IDENTITA_HOTEL.md` con le risposte: check-in, supplemento cani
 | Tutto il sito | circa 75% delle immagini senza testo alternativo (home 23 su 31) | aggiungere un alt descrittivo |
 
 ### 8. Misurazione
-- **GTM:** aggiungere un trigger "Clic link, URL contiene `tel:`" che invia l'evento GA4 `click_telefono` (solo GA4: in Ads esiste già `Chiamate Organiche`, non duplicarla). Oggi GTM traccia già wa.me, i clic verso Beddy e tutto il funnel Beddy (view_item → add_to_cart → begin_checkout → purchase), con il cross-domain attivo.
+- **Telefonate dal sito: già tracciate.** In Ads `Chiamate Organiche` è attiva, con origine sito web: 22 nel periodo 9 set – 8 ott 2026; `Whatsapp Organico` 18, `Chiamate da ADS` 10, `MSG WhatsApp da ADS` 32, `Acquisto` 2. Nessuna azione nel piano. Nota tecnica: in GTM non c'è un trigger `tel:`, quindi il tag sta altrove; e le conversioni Ads contano solo chi ha avuto un'interazione con un annuncio. Se un giorno serve il totale di tutte le chiamate dal sito, va visto in GA4. GTM traccia già wa.me, i clic verso Beddy e il funnel Beddy (view_item → add_to_cart → begin_checkout → purchase), con il cross-domain attivo.
 - **GA4 vs Beddy:** confrontare le prenotazioni (purchase) di GA4 con il report di Beddy, luglio–settembre 2026. GA4 riporta 13.622,22 € in "Entrate totali": verificare.
 - **Consent mode:** il default è `analytics_storage: denied`. Capire se è base o avanzato (spiega una parte di Direct/Unassigned).
 
 ---
 
-## Settimane 3–4 · 26 ottobre – 6 novembre
+## Fase 3 · 23 novembre – 18 dicembre
 
 ### 9. Francese e inglese ⚠️ (sono le pagine che gli LLM citano)
 
@@ -190,21 +190,15 @@ Lo stesso `@id` di Rank Math (`#organization`) fa sì che Google unisca questa s
 **Dopo (con calma):** `HotelRoom` nelle schede camera e `FAQPage` dove ci sono FAQ, in tutte e tre le lingue.
 
 ### 11. Fonti esterne
-- **Scheda Google:**
-  - categoria principale Hotel;
-  - attributi: animali ammessi, parcheggio gratuito, sauna/idromassaggio, ricarica EV, Wi-Fi;
-  - check-in e check-out (dopo conferma);
-  - descrizione allineata alla carta d'identità;
-  - foto della Spa;
-  - risposte alle recensioni.
-- **Booking ed Expedia:** descrizione della **nuova** Spa (alcune schede parlano di "docce aromatiche"); attributi animali.
+- **Scheda Google:** già corretta (Nicolò, 9 ott). Niente da fare, salvo aggiornare il check-in se cambia.
+- **Expedia / Hotels.com:** limite cani "10 kg" da allineare alla risposta del proprietario. Alcune schede di terzi descrivono la vecchia spa ("docce aromatiche"): verificare la descrizione.
 - **lovevda.it**, il portale ufficiale regionale (scheda 9004983): non cita né cani né Spa. Verificare come aggiornarla (ufficio turistico regionale). Dati presenti: 25 posti letto, 16 bagni, 922 m, listino 2025-26.
 - **yesalps.com** chiama l'hotel "B&B-Hotel".
 - **Expedia e Hotels.com** (dai risultati di ricerca, pagine bloccate ai controlli automatici): **cani "fino a 10 kg"** e "gratis". Va confrontato con la risposta del proprietario: se non c'è limite di peso, è l'errore più dannoso, perché esclude i cani di media e grande taglia. Ciotole "disponibili".
 - **Travelocity**: indica un **ristorante**, che non c'è, e il "parcheggio a pagamento" (vero solo per il garage: lo scoperto è gratuito).
 - **Omonimia**: esiste un "Hotel Les Montagnards" a **Morteau (Francia)**, sito hotel-les-montagnards.com. Nelle schede e nei testi usare sempre "Hotel Les Montagnards **Morgex**".
 - **Bing Places**; facoltativo Apple Business Connect.
-- **Beddy:** chiedere del collegamento a **Google Hotel Center / free booking links**, per avere il prezzo del sito ufficiale accanto a Booking su Google Hotels e AI Mode.
+- **Beddy / prezzi su Google:** **già attivo.** Il sito ufficiale compare tra i prezzi di Google (verificato da Nicolò, 9 ott). Niente da fare.
 
 ### 12. Punto di partenza GEO (da rifare ogni mese)
 Le stesse 20 domande su **ChatGPT** e **Gemini** (meglio anche Google AI Mode e Perplexity), in navigazione anonima. Per ognuna annotare:

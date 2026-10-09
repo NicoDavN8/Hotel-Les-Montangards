@@ -2,7 +2,7 @@
 
 **Stato:** testi concordati il 9 ottobre 2026 · consegna al proprietario: **10 ottobre 2026**
 **Destinatario:** il proprietario dell'hotel (non tecnico). Il report deve essere rapido e comprensibile: dati positivi, problemi, soluzioni, cronologia, richieste. Niente servizi né costi: la parte economica si discute a voce.
-**Chi fa cosa:** **Noi** = N8 (correzioni su WordPress) · **DIGIVAL** = solo dove serve un webmaster · **Voi** = l'hotel.
+**Chi fa cosa:** non va sulle slide, che riportano solo le cose da fare. All'interno: N8 fa le correzioni su WordPress, DIGIVAL solo dove serve un webmaster (vedi checklist).
 
 > Tutto il dettaglio tecnico (URL, schema, redirect) è in `CHECKLIST_TECNICA.md`, che non va al proprietario.
 > La revisione del vecchio report da 35 slide è in `REVISIONE_report_originale.md`.
@@ -107,8 +107,10 @@ un'etichetta colorata con la scadenza:
    Nel codice letto da Google e dalle AI il sito risulta solo come
    "Bieffepi Srl", ma l'hotel non c'è: mancano nome, indirizzo, orari,
    animali ammessi e servizi.
-8. Mancano le informazioni pratiche
-   Prezzi, orari, distanze in km, parcheggi agli impianti.
+8. Il blog è fermo e mancano le informazioni pratiche
+   6 articoli brevi, nessuno nuovo da agosto 2025 e nessuno su cani,
+   Spa o sci. Sul sito mancano prezzi, orari, distanze e parcheggi agli
+   impianti.
 
 Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
@@ -142,122 +144,224 @@ Elenco completo: `prova_404_2026-10-09.csv`, con 108 URL ricontrollate il 9 otto
 In tutto 25 delle 108 pagine sono in spagnolo, perché la versione spagnola è stata eliminata.
 **Attenzione:** il -63% di visite da Google è un dato certo (GA4), ma che dipenda dalle pagine perse è la **causa più probabile**, non una prova. La conferma arriverà da Search Console.
 
-## Slide 4 · Il piano: ottobre
+## Slide 4 · Il piano: le tre fasi
+
+> ✅ **Approvata da Nicolò** (9 ott 2026). Decisioni:
+> - **niente etichette "chi"** (Noi/Voi): sulla slide solo cosa fare;
+> - niente tasto "Chiama", niente scheda Google (è già corretta), niente account Google né conteggio delle telefonate (già tracciate in Ads);
+> - **niente date** sulle fasi (le tempistiche le decide il cliente), solo l'ordine 1-2-3;
+> - ogni voce dice cosa c'è oggi e cosa diventa.
 
 ```
-Slide 4 – Titolo: IL PIANO · OTTOBRE
+Slide 4 – Titolo: IL PIANO IN TRE FASI
 Sfondo blu con sfumatura come da stile (niente foto).
-Tre colonne affiancate a forma di linea del tempo, da sinistra a destra.
-In cima a ogni colonna: le date in grande e sotto un sottotitolo corto.
-In ogni colonna un elenco di attività su box bianchi, una riga ciascuna,
-con a destra un'etichetta colorata "chi": Noi (blu), Voi (giallo),
-DIGIVAL (grigio).
+Tre colonne affiancate, da sinistra a destra, unite da una linea
+orizzontale con tre punti numerati 1, 2, 3, a indicare l'ordine.
+Nessuna data. In cima a ogni colonna: FASE 1 / FASE 2 / FASE 3 in grande
+e sotto un sottotitolo corto. In ogni colonna un elenco di box bianchi con
+angoli arrotondati. In ogni box: in grassetto la pagina o il tema, sotto
+la modifica in una o due righe. Nessuna etichetta su chi fa cosa. Testo
+piccolo ma leggibile, stessa larghezza per tutti i box.
 
-12–16 OTTOBRE · Le urgenze
-- Correggere il telefono nel menu — Noi
-- Collegare i 108 vecchi indirizzi alle nuove pagine — Noi
-- Installare Google Search Console — Noi
-- Darci l'accesso all'account Google dell'hotel — Voi
-- Tasto "Chiama" sul cellulare — DIGIVAL
-- Rispondere alle domande dell'ultima slide — Voi
+FASE 1 · Le urgenze
+- Telefono nel menu: correggere il link, oggi da cellulare chiama un
+  numero inesistente
+- Vecchi indirizzi: collegare i 108 vecchi indirizzi alle nuove pagine
+- Google Search Console: installarla
+- Domande dell'ultima slide: raccogliere le risposte
 
-19–23 OTTOBRE · Informazioni giuste
-- Carta d'identità definitiva, con le vostre risposte — Noi
-- Correggere le 4 pagine lette dalle AI: Home, Pet friendly, Spa,
-  Contatti — Noi
-- Correggere le altre pagine: camere, garage, offerte scadute — Noi
-- Contare le telefonate dal sito e confrontare le prenotazioni
-  con Beddy — Noi
+FASE 2 · Le pagine in italiano
+- Home e Contatti: un solo orario di check-in (oggi 14–19 in Home e
+  15–22 in Contatti); garage "a pagamento", non "gratuito"
+- Pet friendly: correggere la descrizione per Google (oggi "cani ammessi
+  fino senza limitazioni"); aggiungere massimo 2 cani, dog-sitter
+  e supplemento
+- Spa: aggiungere prezzo, orari, posti per turno e apertura agli esterni
+- Camere: togliere "spa inclusa"; Family Junior Suite 38 m² per 4
+  persone (oggi "33 m², letto king"); Superior con un solo nome
+  (oggi anche "Matrimoniale Deluxe")
+- Offerte: togliere la Last Minute Primavera/Estate 2026 scaduta;
+  scrivere "parcheggio scoperto incluso"
 
-26 OTTOBRE – 6 NOVEMBRE · Farsi capire da Google e dalle AI
-- Riscrivere le pagine in francese e inglese — Noi
-- Rifare il "codice a barre" del sito: l'hotel con i suoi dati — Noi
-- Aggiornare scheda Google, Booking, Expedia e portale regionale —
-  Noi + Voi
-- Chiedere a Beddy i vostri prezzi su Google, accanto a Booking — Voi
-- Primo controllo su ChatGPT e Gemini: il punto di partenza — Noi
+FASE 3 · Francese, inglese, Google e AI
+- Spa in francese e inglese: togliere "hammam" e "accesso gratuito";
+  tinozze "riscaldate a legna" (oggi in inglese "a temperatura ambiente")
+- Cani in francese e inglese: "senza supplemento" solo se confermato;
+  Lago d'Arpy, Val Veny e Val Ferret "a pochi minuti in auto"
+  (oggi "dall'hotel")
+- Home in francese: descrizione per Google e titolo "Tra cime, vallate
+  e borghi autentici" tradotti (oggi in italiano)
+- Camere in francese e inglese: "personnes / guests" e "m²" al posto
+  di "persone" e "mq"
+- Dati strutturati (il "codice a barre" del sito): presentare "Hotel
+  Les Montagnards" con indirizzo, servizi, animali e check-in, e Bieffepi
+  Srl come proprietaria; togliere "Persona" e "Articolo"
+- Schede esterne: Travelocity senza ristorante; Expedia e Hotels.com
+  con il limite cani giusto; portale della Regione con cani e Spa
 
 Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
 
-**Cosa dire:**
-- "Ottobre serve a mettere a posto la casa; da novembre la facciamo crescere."
-- "Da voi servono solo tre cose: l'accesso all'account Google, le risposte alle domande e l'accesso a Booking ed Expedia. Il resto lo facciamo noi."
+**Prima di generarla:**
+- **Travelocity:** controllare che dica davvero "ristorante" (dato preso da un riassunto di ricerca).
 
-## Slide 5 · Il piano: da novembre
+**Se è troppo piena** (14 box):
+- **4 · "Il piano in tre fasi":** solo date, sottotitoli e nome di ogni box;
+- **4b · "Cosa correggiamo, pagina per pagina":** tabella "Pagina · Oggi · Dopo".
+
+**Cosa dire:** "Prima mettiamo a posto la casa, poi la facciamo crescere."
+
+## Slide 5 · Piano Autunno
+
+> Rinominata il 9 ott 2026 (prima era "Il piano: da novembre"). Stesse regole della slide 4: niente date, niente "chi", voci concrete. Non ripete le correzioni della slide 4: qui c'è solo il lavoro per **far crescere** il sito.
 
 ```
-Slide 5 – Titolo: IL PIANO · DA NOVEMBRE
-Linea del tempo orizzontale con 4 tappe, sotto ogni tappa un box bianco.
+Slide 5 – Titolo: PIANO AUTUNNO
+Sottotitolo piccolo sotto il titolo: "Dopo le correzioni: far crescere il
+sito prima della stagione invernale"
+Sfondo blu con sfumatura come da stile (niente foto).
+Tre colonne affiancate di box bianchi con angoli arrotondati, ognuna con
+un titolo in maiuscolo e una piccola icona. La colonna centrale (il blog)
+è leggermente evidenziata: bordo più spesso o sfondo bianco pieno.
+In ogni box: in grassetto la pagina o il tema, sotto una o due righe.
+Nessuna data, nessuna etichetta su chi fa cosa.
 
-NOVEMBRE (prima della stagione sci)
-- Pagine Courmayeur e La Thuile con distanze, parcheggi agli impianti e
-  "niente skibus: si va in auto"
-- Pagina Cani completa
-- Articolo 1
+PAGINE PIÙ COMPLETE
+- Courmayeur e La Thuile: distanze in km e minuti (10 e 20 minuti in
+  auto), dove si parcheggia agli impianti, niente skibus: si va in auto
+- Pet friendly: passeggiate con il cane dall'hotel e a pochi minuti in
+  auto, veterinario più vicino, domande frequenti
+- Spa: cosa include, come si prenota, cosa portare, massaggi, domande
+  frequenti
+- Morgex: cosa fare in paese, il Blanc de Morgex, lo sci di fondo
+  ad Arpy
 
-DICEMBRE
-- Pagine Spa e Morgex complete, con prezzi e orari
-- Articolo 2
+IL BLOG: UN ARTICOLO AL MESE
+- Perché: ogni articolo risponde a una domanda che i clienti fanno
+  a Google, ChatGPT e Gemini
+- Si parte da: "Sciare a Courmayeur e La Thuile dormendo a Morgex"
+- Poi: "In vacanza con il cane a Morgex"
+- Poi: "Weekend romantico tra Spa e Monte Bianco"
+- Tutti i titoli nella slide successiva
 
-OGNI MESE, DA GENNAIO
-- 1 articolo
-- Controllo di 3 numeri: visite da Google · presenza su ChatGPT e Gemini ·
-  telefonate, WhatsApp e prenotazioni dal sito (verificate su Beddy)
-
-METÀ GENNAIO 2027
+OGNI MESE, COSA MISURIAMO
+- ChatGPT e Gemini: quante volte consigliano l'hotel su 20 domande fisse
+- Telefonate e WhatsApp: oggi circa 50 telefonate e 60 messaggi WhatsApp
+  al mese (media luglio–settembre 2026), da far crescere
 - Primo bilancio insieme: confronto con il punto di partenza
+
+Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
 
-## Slide 6 · Un articolo al mese
+**Numeri di partenza** (Google Ads, 9 ott 2026):
+
+| Conversione | Luglio | Agosto | Settembre |
+|---|---|---|---|
+| Chiamate Organiche | 37,3 | 39,0 | 26 |
+| Chiamate da ADS | 19 | 20 | 12 |
+| Whatsapp Organico | 81 | 48 | 18 |
+| MSG WhatsApp da ADS | 0 | 10 | 20 |
+| Acquisto | 0 | 0 | 2 (766 €) |
+
+Telefonate 153 in tutto, circa 51 al mese; WhatsApp 177, circa 59 al mese.
+- **Prenotazioni online escluse** dalla slide: Ads ne vede 2, mentre GA4 riporta 13.622 € (lug–set). Da confrontare prima con Beddy.
+- **Da sapere:** Ads registra solo i contatti che riesce a collegare a una pubblicità, e le "Chiamate da ADS" partono dagli annunci, non dal sito.
+- **Calo a settembre:** WhatsApp da 81 a 38 e telefonate da 56 a 38. Probabilmente è stagionalità.
+- **"Visite da Google" tolta:** Nicolò le misura già.
+
+**Cosa dire:** "Con la slide 4 mettiamo a posto la casa. Questa è la parte che porta clienti nuovi, e va fatta prima che inizi la stagione sciistica."
+
+## Slide 6 · Il blog: 12 articoli
+
+> Versione del 9 ott 2026:
+> - **niente mesi:** gli articoli sono raggruppati per stagione, le tempistiche le decide il cliente;
+> - **tolti i doppioni** con pagine che esistono già: "Rafting" (/esperienze/rafting) e "Terme di Pré-Saint-Didier" (/esperienze/terme-*), sostituiti con "Valdigne con i bambini" e "Cosa fare quando piove";
+> - **l'ordine dell'inverno** è lo stesso della slide 5.
 
 ```
-Slide 6 – Titolo: UN ARTICOLO AL MESE
-Griglia 4×3 di 12 riquadri bianchi: in alto il mese in piccolo, sotto il
-titolo dell'articolo. Nota in basso: "Ogni articolo esce circa un mese
-prima del periodo a cui serve."
-Nov — Sciare a Courmayeur e La Thuile dormendo a Morgex
-Dic — In vacanza con il cane a Morgex: passeggiate, regole, servizi
-Gen — Weekend romantico vicino a Courmayeur: due notti tra Spa e Monte
-      Bianco
-Feb — Cosa fare a Morgex in inverno senza sciare
-Mar — Skyway Monte Bianco con il cane: regole e consigli
-Apr — Dove dormire tra Courmayeur e La Thuile: perché Morgex
-Mag — 5 passeggiate facili con il cane vicino a Morgex
-Giu — Da Morgex al Lago d'Arpy: percorso, tempi, consigli
-Lug — Rafting e sport estivi vicino a Morgex
-Ago — Terme di Pré-Saint-Didier: una giornata partendo da Morgex
-Set — Autunno a Morgex: vendemmia, larici e silenzio
-Ott — Dove mangiare a Morgex e in Valdigne
+Slide 6 – Titolo: IL BLOG · 12 ARTICOLI, UNO AL MESE
+Sfondo blu con sfumatura come da stile (niente foto).
+Quattro colonne affiancate, una per stagione, con il nome della stagione
+in maiuscolo in cima e una piccola icona (fiocco di neve, fiore, sole,
+foglia). In ogni colonna 3 box bianchi con angoli arrotondati, uno per
+articolo, con il titolo dell'articolo in grassetto. Nessuna data.
+In basso, una riga piccola: "Ogni articolo esce prima della stagione a
+cui serve e risponde a una domanda che i clienti fanno a Google, ChatGPT
+e Gemini."
+
+INVERNO
+- Sciare a Courmayeur e La Thuile dormendo a Morgex
+- In vacanza con il cane a Morgex: passeggiate, regole e servizi
+- Weekend romantico vicino a Courmayeur: due notti tra Spa e Monte Bianco
+
+PRIMAVERA
+- Skyway Monte Bianco con il cane: regole e consigli
+- Dove dormire tra Courmayeur e La Thuile: perché scegliere Morgex
+- Cosa fare in Valdigne quando piove
+
+ESTATE
+- Da Morgex al Lago d'Arpy: percorso, tempi e consigli
+- 5 passeggiate facili con il cane vicino a Morgex
+- Valdigne con i bambini: cosa fare partendo da Morgex
+
+AUTUNNO
+- Autunno a Morgex: vendemmia, larici e silenzio
+- Dove mangiare a Morgex e in Valdigne
+- Cosa fare a Morgex in inverno senza sciare
+
+Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
+
+**Perché questi 12:**
+- **3 sul cane:** è il primo motivo per cui i clienti vi scelgono.
+- **1 sulla Spa, il weekend romantico:** è la novità, e ancora non ha recensioni.
+- **1 sullo sci senza skibus:** è la domanda pratica di chi viene d'inverno.
+- **1 sui ristoranti:** l'hotel non ha ristorante, e chi dorme lì se lo chiede.
+- **Gli altri:** domande frequenti di chi pianifica un viaggio.
+
+**Cosa dire:** "Ogni articolo è una domanda in più a cui rispondete voi, invece di Booking o di un altro sito."
+
+**Nota interna:** gli articoli sul cane e quello sullo sci conviene tradurli anche in francese, per il mercato svizzero e francese, quando c'è tempo.
 
 ## Slide 7 · Cosa ci serve da voi
 
+> Versione del 9 ott 2026:
+> - **tolti** account Google, scheda Google e prezzi su Google (già a posto);
+> - **aggiunte** distanze d'inverno e parcheggi agli impianti (servono per la slide 5) e la domanda su chi aggiorna il portale della Regione;
+> - **un solo accesso OTA:** Expedia Partner Central gestisce anche Hotels.com e Travelocity.
+
 ```
 Slide 7 – Titolo: COSA CI SERVE DA VOI
-Due box bianchi affiancati.
+Sfondo blu con sfumatura come da stile (niente foto).
+Due box bianchi affiancati con angoli arrotondati, il sinistro più largo.
+In ogni box un titolo in maiuscolo e un elenco puntato: in grassetto il
+tema, poi la domanda. Testo leggibile, molto spazio tra le voci.
 
 Box 1 – DA CONFERMARE
 - Check-in: 14–19 o 15–22? Si può arrivare più tardi?
-- Cani: c'è un limite di peso o taglia? (Expedia e Hotels.com scrivono
-  "fino a 10 kg"). C'è un supplemento? Quanto costa il dog-sitter?
-  Fornite cuccia e ciotole?
+- Cani: c'è un limite di peso o di taglia? (Expedia e Hotels.com
+  scrivono "fino a 10 kg") C'è un supplemento? Quanto costa il
+  dog-sitter? Fornite cuccia e ciotole?
 - Garage coperto: quanto costa? È incluso nelle offerte? Chi ricarica
   l'auto elettrica (la colonnina è nel garage) paga il garage?
-  (oggi il sito in alcuni punti lo chiama "gratuito")
-- Spa: 35 € l'ora a persona o per il gruppo? Orari? Quante persone
-  per turno? Possiamo scrivere che è aperta anche a chi non dorme
-  in hotel?
-- Colazione: orari?
+- Spa: i 35 € l'ora sono a persona o per il gruppo? Orari? Quante
+  persone per turno? Possiamo scrivere che è aperta anche a chi non
+  dorme in hotel?
+- Colazione: in che orari?
+- Sci: d'inverno quanto ci vuole davvero per Courmayeur e La Thuile?
+  Dove consigliate di parcheggiare agli impianti?
 
 Box 2 – ACCESSI E CONTATTI
-- Account Google dell'hotel (Search Console e scheda Google)
-- Accesso a Booking e alle altre OTA (per aggiornare le descrizioni)
-- Accesso al pannello Beddy (per vedere le prenotazioni arrivate dal sito)
-- Beddy: chiedere se può mostrare i vostri prezzi direttamente su Google
+- Expedia Partner Central (gestisce anche Hotels.com e Travelocity):
+  per correggere le schede
+- Report delle prenotazioni da Beddy: per sapere quante prenotazioni
+  arrivano dal sito
+- Portale della Regione (lovevda): chi aggiorna la vostra scheda?
+
+Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
 
----
+**Cosa dire:** "Con queste risposte partiamo con la Fase 2. Finché non le abbiamo, sul sito non scriviamo nulla che non sia sicuro."
 
 ## Note per la presentazione
 
