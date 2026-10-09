@@ -100,14 +100,16 @@ Sotto, una fascia bianca con tre numeri più piccoli affiancati:
 - circa 4 € — costo per contatto
 - 2–3 prenotazioni — bastano a ripagare tre mesi di pubblicità
 In fondo un riquadro bianco con bordo rosso:
-"4 chiamate su 10 restano senza risposta (55 su 138 nel 2026).
-Ogni chiamata persa è un cliente che può finire su Booking."
+"1 persona su 3 che chiama dagli annunci non riesce a parlare con
+l'hotel (41 su 117 nel 2026). Ogni chiamata persa è un cliente che può
+finire su Booking."
 Nota piccola in basso: "Contatti registrati da Google Ads: persone
 arrivate tramite gli annunci."
 Logo N8 piccolo in basso a destra. Nessun altro testo.
 ```
 
-**Cosa dire:** "La pubblicità i contatti li porta: più di 300 in tre mesi, a circa 4 € l'uno. Il punto debole è rispondere: 4 chiamate su 10 cadono nel vuoto, soprattutto a metà mattina, nel pomeriggio e nel weekend." Soluzioni, se chiede:
+**Cosa dire:** "La pubblicità i contatti li porta: più di 300 in tre mesi, a circa 4 € l'uno. Il punto debole è rispondere: circa 1 persona su 3 che chiama non riesce a parlarvi, soprattutto a metà mattina e nel pomeriggio."
+> **Verificato il 9 ott:** 55 chiamate perse su 138 nel 2026 (40%), ma raggruppando i tentativi ravvicinati della stessa persona (entro 30 minuti) sono **41 persone su 117 (35%)**. È stabile tra 32% e 36% in tutti i periodi e con finestre da 10 a 60 minuti. **Non dire "4 su 10".** Soluzioni, se chiede:
 - deviare le chiamate su un cellulare;
 - negli orari scoperti, mostrare negli annunci WhatsApp al posto del tasto "Chiama".
 

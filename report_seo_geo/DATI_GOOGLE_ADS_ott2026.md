@@ -42,7 +42,7 @@ Tutte le conversioni Ads sono di persone che hanno avuto un'interazione con un a
 - **Prenotazioni online:** 4, per 2.486 €.
 - **Prima di maggio i numeri non sono confrontabili:** `Chiamate Organiche` e `Whatsapp Organico` iniziano a contare davvero da maggio–giugno.
 
-## 4. ⚠️ Telefonate vere: 4 su 10 senza risposta
+## 4. ⚠️ Telefonate vere: 1 persona su 3 non trova risposta
 Fonte: dettaglio chiamate (`call_view`), cioè le chiamate tramite numero di inoltro dell'estensione di chiamata, con durata e stato.
 
 | Periodo | Chiamate | Senza risposta | Con risposta | Di cui ≥ 60 s |
@@ -51,7 +51,17 @@ Fonte: dettaglio chiamate (`call_view`), cioè le chiamate tramite numero di ino
 | Lug–set 2026 | 46 | 17 (37%) | 29 | 19 |
 | Dal 2023 | 673 | 248 (37%) | 425 | — |
 
-**Quando si perdono (2026):**
+**Verifica del 9 ott: le persone, non le chiamate.** Lo stato MISSED nella documentazione Google vuol dire "non risposta", e tutte le chiamate perse hanno durata 0. Spesso però la stessa persona riprova dopo pochi secondi o minuti. Raggruppando i tentativi a meno di 30 minuti l'uno dall'altro:
+
+| Periodo | Persone che hanno chiamato | Mai raggiunte |
+|---|---|---|
+| 2026 | 117 | **41 (35%)** |
+| Lug–set 2026 | 39 | 13 (33%) |
+| Dal 2023 | 574 | 184 (32%) |
+
+Con finestre da 10 o 60 minuti il risultato resta tra 32% e 36%. **La frase da usare è "1 persona su 3 non riesce a parlare con l'hotel", non "4 chiamate su 10".** È una stima: Google non dà il numero del chiamante. "Persa" comprende anche chi riattacca dopo pochi squilli, e riguarda solo le chiamate dagli annunci.
+
+**Quando si perdono (2026, chiamate, campione piccolo):**
 
 | Fascia | Senza risposta |
 |---|---|
