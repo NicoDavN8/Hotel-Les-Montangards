@@ -42,7 +42,7 @@ Les Montagnards è un cliente più piccolo (456 €/mese di pubblicità), quindi
 2. **L'analisi era già compresa in un accordo?** Se sì, la voce 1 si toglie o resta come "omaggio".
 3. **Redirect:** se il contratto DIGIVAL prevedeva la migrazione SEO, li deve fare DIGIVAL senza costi, e la voce 2 scende di circa 4–5 ore.
 
-## Riferimenti di mercato (ricerca del 10 ott 2026)
+## Riferimenti di mercato (ricerca del 9 ott 2026)
 
 | Lavoro | Mercato Italia (ordini di grandezza) | Range consigliato |
 |---|---|---|
