@@ -412,6 +412,12 @@ Logo N8 piccolo in basso a destra. Nessun altro testo.
 
 **Cosa dire:** "Con queste risposte partiamo con la Fase 2. Finché non le abbiamo, sul sito non scriviamo nulla che non sia sicuro."
 
+**Domanda da fare a voce** (non sulla slide): "Nel contratto con DIGIVAL era prevista la migrazione SEO, cioè il passaggio degli indirizzi dal vecchio al nuovo sito?" Se sì, i 108 redirect spettano a DIGIVAL senza costi; se no, sono un lavoro nuovo (vedi `PREVENTIVO_proposta.md`).
+
+**File collegati:**
+- `DATI_GOOGLE_ADS_ott2026.md`: tutti i numeri Ads, le chiamate perse, cosa non mostrare;
+- `PREVENTIVO_proposta.md`: proposta economica interna.
+
 ## Note per la presentazione
 
 - **Slide 2, riquadro "11":** le 4 pagine citate (Home, Pet friendly, Spa, Contatti) sono confermate da Nicolò in Semrush (9 ott). Da dire: Home e Contatti sono entrambe lette dalle AI e danno **due orari di check-in diversi** (14–19 e 15–22). È l'esempio concreto per il problema 5 della slide 3.

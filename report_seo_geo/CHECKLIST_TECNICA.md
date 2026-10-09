@@ -34,8 +34,24 @@ Sito: WordPress 7.1.3 · Oxygen Builder · WPML (IT/FR/EN) · Rank Math · LiteS
 - **Casi particolari:**
   - **Privacy e cookie** (8 righe): la pagina privacy **non esiste**, e il link "Privacy Policy" nel footer punta a `#`. Prima va creata la pagina (anche per ragioni legali), poi si reindirizzano lì le vecchie URL.
   - `/1953/`: pagina sconosciuta, da guardare su Wayback prima di decidere.
-  - **Spagnolo:** la versione ES è stata eliminata, quindi tutto va all'inglese.
+  - **Spagnolo (25 righe):** la versione ES è stata eliminata, quindi ogni pagina va alla **pagina equivalente in inglese** (chi cerca in spagnolo capisce più facilmente l'inglese, e Google accetta lo stesso contenuto in un'altra lingua come sostituto). Mappatura:
+    - home `/es/` → `/en`;
+    - 3 camere → stesse camere EN;
+    - contatto, richiesta, "gracias" → `/en/contacts`;
+    - promozioni → `/en/offers` (idea regalo → `/en/offers/gift-idea`);
+    - inverno ed estate → `/en/what-to-do/...`;
+    - Lago d'Arpy → `/en/experiences/trekking`;
+    - 2 articoli → stessi articoli EN;
+    - blog e categorie → EN.
+
+    Le 2 righe privacy e cookie restano in attesa della pagina privacy. Il codice **410** ("eliminata definitivamente") è da usare solo per pagine senza equivalente e senza link esterni; anche in quel caso conviene mandarle a `/en/offers`. **Non reintrodurre lo spagnolo** per recuperarle: dai dati, la Spagna non è tra i primi mercati.
 - **Dopo:** ricontrollare con un crawl (Screaming Frog o il comando curl della sessione) e, quando Search Console sarà attiva, il report "Pagine → Non trovata (404)" per eventuali URL che mancano.
+
+**Chi doveva farlo:** di norma chi ha realizzato e messo online il nuovo sito (DIGIVAL, firma nel footer). È la procedura standard di una migrazione: elenco delle vecchie pagine, redirect 301, sitemap in Search Console, controllo dei 404. **Dipende però dal contratto:** da chiedere al proprietario se l'incarico DIGIVAL prevedeva la migrazione SEO.
+- **Se la prevedeva:** la sistemazione spetta a DIGIVAL senza costi, consegnando la nostra lista.
+- **Se non la prevedeva:** è un lavoro nuovo, voce 2 del preventivo, circa un giorno su WordPress.
+
+All'incontro nessuna accusa: "succede spesso quando si rifà un sito, di solito se ne occupa chi lo realizza, ma dipende dall'incarico; si corregge in pochi giorni".
 
 ### 5. Pulizia della sitemap (Rank Math → Sitemap)
 - Ci sono URL che reindirizzano: `/fr/hotel-les-montagrards` e `/en/hotel-les-montagrards` (refuso nello slug, 301 verso `/fr` e `/en`). Vanno tolte.
