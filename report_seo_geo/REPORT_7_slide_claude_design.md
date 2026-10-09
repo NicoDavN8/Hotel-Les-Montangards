@@ -31,14 +31,24 @@ Iniziamo dalla slide 1.
 
 ## Slide 1 · Copertina
 
+File da caricare (cartella `asset/`): `drone.jpg` (foto dell'hotel dal drone con il Monte Bianco, 1920×1080, dal sito) e `logo-hotel-bianco.png` (logo del sito ricolorato in bianco, sfondo trasparente). Alternativa per lo sfondo: `montagna.jpg` (Lago d'Arpy).
+
 ```
 Slide 1 – Copertina.
-Sfondo: foto di montagna o dell'hotel con velatura blu.
-Logo Hotel Les Montagnards in alto al centro.
-Titolo grande: SEO & GEO
-Sottotitolo: Come migliorare il sito di Hotel Les Montagnards
-In basso: Ottobre 2026
+Sfondo a tutta pagina: la foto drone.jpg allegata (l'hotel con il Monte
+Bianco dietro), con una velatura blu #0D3B7E al 55% di opacità, più
+scura in basso, in modo che i testi bianchi si leggano bene.
+In alto al centro: il logo logo-hotel-bianco.png, largo circa un quarto
+della slide.
+Al centro, titolo molto grande in bianco: SEO & GEO
+Sotto, sottotitolo in bianco più piccolo:
+Come farsi trovare su Google e consigliare da ChatGPT e Gemini
+In basso al centro, piccolo e con spaziatura larga: OTTOBRE 2026
+Logo N8 piccolo in basso a destra.
+Nessun altro testo oltre a questi.
 ```
+
+> Sottotitolo cambiato il 9 ott rispetto alla bozza ("Come migliorare il sito di Hotel Les Montagnards"): il proprietario non sa cosa significa GEO, e la copertina lo spiega in una riga.
 
 ## Slide 2 · Cosa funziona già
 
