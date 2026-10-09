@@ -1,7 +1,8 @@
 # Carta d'identità — Hotel Les Montagnards
 
-**Versione:** 4 · 26 settembre 2026
-**Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /cosa-fare/estate, /contatti, /camere, /appartamenti, /offerte), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter).
+**Versione:** 5 · 9 ottobre 2026
+**Fonti:** sito hotelmontagnards.com (home, /servizi, /servizi/spa, /servizi/pet-friendly, /servizi/colazione-alpina, /cosa-fare/inverno, /cosa-fare/estate, /contatti, /camere, /appartamenti, /offerte), info dal cliente, file del workspace (analisi Google Ads, linee guida newsletter), scheda ufficiale [lovevda.it](https://www.lovevda.it/it/banca-dati/22/alberghi-3-stelle/morgex/hotel-les-montagnards/9004983) (9 ott 2026).
+**Incoerenze del sito da correggere** (IT/FR/EN): vedi `report_seo_geo/CHECKLIST_TECNICA.md`.
 **Legenda:** ✅ confermato · ❓ da confermare col cliente
 
 ---
@@ -27,7 +28,10 @@ Hotel **3 stelle superior** di recente costruzione, con **12 camere**, a **Morge
 | **Apertura** | 12 mesi l'anno ✅ |
 | **Organico** | circa 6-7 dipendenti + il proprietario ✅ |
 | **Categoria** | 3 stelle superior ✅ |
-| **Camere** | 12 nella struttura principale ✅ (posti letto ❓) |
+| **Camere** | 12 nella struttura principale ✅ · 25 posti letto, 16 bagni (fonte lovevda) ✅ |
+| **Altitudine** | 922 m (fonte lovevda) ✅ |
+| **CIN** | IT007044A14IP6SMJ2 (fonte lovevda) ✅ |
+| **Prezzi dichiarati alla Regione** | validi 1/12/2025–30/11/2026: doppia 99–289 €, doppia uso singola 79–259 €, tripla 159–339 €, suite 2 posti 129–459 €, letto aggiunto under 15 15–50 €, colazione inclusa (fonte lovevda) |
 | **Appartamenti vacanze** | 2 (Maison Blanche a La Salle, Appartamento Les Montagnards) ✅ |
 | **Check-in / check-out** | check-out entro le 10:30 ✅. Check-in: ❓ la home dice 14:00-19:00, /contatti dice 15:00-22:00 (da uniformare sul sito) |
 | **Atmosfera (dal sito)** | «autentica atmosfera alpina con un'accoglienza intima e raffinata», legno profumato e pietra locale ✅ |
