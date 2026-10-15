@@ -113,6 +113,7 @@ Idee di NL ancora non usate: **una NL per chi viaggia con il cane** (sentieri da
 | Prenotazione su date precise | *Prenota il tuo soggiorno!* | `https://lesmontagnards.beddy.io/#/(beddy:home)` |
 | Far conoscere un servizio | *Scopri la SPA Alpina!* | `https://www.hotelmontagnards.com/servizi/spa` |
 | Contatto diretto | *Scrivici su WhatsApp* | `https://wa.me/393513720817` |
+| Portare a un articolo del blog (NL nata da un articolo) | *Scopri i 5 posti del foliage* (adatta) | URL dell'articolo: la pagina ha già i suoi "Prenota ora" |
 
 > ⚠️ Nel link alle offerte le parentesi vanno lasciate così come sono — è il formato richiesto da Beddy, segnalato da Luca a febbraio 2026.
 

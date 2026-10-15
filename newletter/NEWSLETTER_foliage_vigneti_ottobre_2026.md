@@ -3,7 +3,7 @@
 **Basata su:** l'articolo del blog [Foliage Valle d'Aosta: 5 luoghi da scoprire vicino a Morgex](https://www.hotelmontagnards.com/foliage-in-valdigne.html), pubblicato il 14 ottobre 2026.
 **Invio consigliato:** **lunedì 19 ottobre** (al più tardi martedì 20), così il testo "restano due weekend" è esatto e tutti e due sono ancora prenotabili.
 **File pronto:** `Hotel_Foliage_Vigneti.html`, con la stessa struttura di `Hotel_Autunno_Larici.html`.
-**Lunghezza:** circa 185 parole, un solo bottone.
+**Lunghezza:** 200 parole fino al P.S. compreso, un solo bottone.
 
 **L'idea, in una frase:** in quota i larici chiudono la stagione, ma l'oro dell'autunno scende a valle, tra le vigne di Morgex, e lì dura di più.
 È il seguito naturale della newsletter dei larici (Lago d'Arpy, 3–18 ottobre), di cui non ripete l'argomento.
